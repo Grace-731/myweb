@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>365跨境智能客服</title><style>:root{font:15px/1.5 system-ui,-apple-system,sans-serif;color:#172a34;background:#f0f4f4;--ink:#102f35;--teal:#007568;--border:#dbe6e5}*{box-sizing:border-box}body{margin:0}header{height:72px;background:#fff;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 4vw;gap:12px}.brand{display:flex;gap:12px;align-items:center;font-size:23px;font-weight:800;letter-spacing:-.04em}.mark{background:var(--ink);color:#87f2d2;width:40px;height:40px;display:grid;place-items:center;border-radius:12px}.brand small,.bar small{display:block;font-size:10px;letter-spacing:.13em;color:#49636b}main{max-width:1440px;margin:auto;display:grid;grid-template-columns:220px 1fr;min-height:calc(100dvh - 72px)}aside{border-right:1px solid var(--border);padding:32px 18px;background:#f8fbfa}aside h2{font-size:19px;margin:8px 0 24px}nav{display:grid;gap:8px}.eyebrow{font-size:11px;letter-spacing:.14em;font-weight:800;margin:0;color:#58757c}button,select,input{font:inherit}button,select{background:white;border:1px solid var(--border);border-radius:9px;padding:8px 13px;color:inherit;cursor:pointer}button:hover{border-color:#419d8d}button:disabled{opacity:.55;cursor:wait}button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #008675;outline-offset:2px}.nav{text-align:left;border-color:transparent;background:transparent}.nav.active{background:#e2f4ee;color:#005b4d;font-weight:700}.notice{margin-top:35px;padding:13px;border-radius:12px;background:#eaf1f1;font-size:12px}.notice strong{color:#006659}.notice p{margin:4px 0}.workspace{padding:28px clamp(16px,4vw,56px);min-width:0}.hero{background:#12383d;color:white;border-radius:16px;padding:24px 30px;background-image:radial-gradient(ellipse at 100% 0%,#206960,transparent 67%)}.hero h1{font-size:clamp(26px,4vw,38px);margin:4px 0}.hero p{margin:0;color:#cbf0e6}.panel{margin-top:18px;background:white;border:1px solid var(--border);border-radius:16px;overflow:hidden}.bar{padding:14px 20px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center}.bar small{letter-spacing:0;font-size:12px}#messages{height:clamp(250px,40vh,500px);overflow:auto;padding:20px;display:flex;flex-direction:column;gap:14px}.bubble{padding:12px 14px;border-radius:13px;background:#f0f5f4;max-width:92%;width:fit-content;overflow-wrap:anywhere}.mine{align-self:flex-end;background:#dff3ed}.bubble p{margin:0}.cards{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}.card{background:white;border:1px solid var(--border);border-radius:9px;padding:10px;min-width:130px}.card p,.source{font-size:12px;color:#49636b}.source{display:block;margin-top:8px}.quick{display:flex;gap:7px;flex-wrap:wrap;padding:8px 18px}.quick button{font-size:12px}form{display:flex;gap:8px;padding:8px 18px}input{min-width:0;flex:1;border:1px solid var(--border);border-radius:9px;padding:10px}.primary{background:#006d61;color:white;white-space:nowrap}#feedback{margin:0;padding:0 18px 12px;color:#465c61;font-size:12px;min-height:25px}.content{padding:20px}.content h2{margin-top:0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}.metric{border:1px solid var(--border);border-radius:12px;padding:12px}.metric strong{font-size:24px;display:block}@media(max-width:720px){main{display:block}aside{padding:9px 13px;border-right:0}aside h2,aside>.eyebrow,.notice{display:none}nav{display:flex;flex-wrap:wrap}.workspace{padding:12px}.hero{padding:16px}header{height:58px}.brand{font-size:18px}header label{font-size:12px}.bubble{max-width:100%}}
+
+.customer{display:block;max-width:1240px;padding:28px clamp(14px,4vw,48px)}
+.customer .mark{font-size:14px;letter-spacing:0}
+.customer .hero{padding:clamp(24px,5vw,48px)}
+.jump{display:inline-block;margin-top:15px;color:#12383d;background:#c8f1e5;border-radius:8px;padding:8px 14px;font-weight:700;text-decoration:none}
+.columns{display:grid;grid-template-columns:1.1fr 1fr;gap:18px;align-items:start}
+.columns section{min-width:0}
+#search{display:block;width:100%;margin-top:5px}
+.filters{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.filters button{font-size:12px}
+.filters button[aria-pressed=true]{background:#e2f4ee;color:#005b4d;border-color:#98cbbd}
+#result-count{color:#49636b;font-size:13px;margin:12px 0 4px}
+#faq-list{max-height:440px;overflow:auto}
+#faq-list details{border-bottom:1px solid var(--border);padding:10px 0}
+#faq-list summary{cursor:pointer;font-weight:600}
+#faq-list p{margin:8px 0}
+.customer footer{color:#49636b;font-size:13px;padding:14px 0}
+.customer a:not(.jump){color:#006659}
+@media(max-width:850px){.columns{grid-template-columns:1fr}.columns #chat{grid-row:1}.customer #messages{height:250px}}
+</style></head>
+<body>
+<header><div class="brand"><span class="mark">365</span><div>跨境智能客服<small>韩国好物 · 跨境购物帮助</small></div></div><label for="language">语言 <select id="language"><option value="zh">中文</option><option value="ko">한국어</option><option value="en">English</option></select></label></header>
+<main class="customer">
+  <section class="hero"><p class="eyebrow">KOREA → CHINA</p><h1 id="heading">有什么可以帮你？</h1><p id="intro">了解韩国直邮、清关、商品和售后。</p><a id="chat-link" class="jump" href="#chat">开始咨询</a></section>
+  <div class="columns">
+    <section class="panel content" aria-labelledby="faq-heading"><h2 id="faq-heading">常见问题</h2><label for="search" id="search-label">搜索常见问题</label><input id="search" type="search" placeholder="例如：清关、关税、退货"><div id="filters" class="filters"></div><p id="result-count" role="status"></p><div id="faq-list"></div></section>
+    <section id="chat" class="panel" aria-labelledby="chat-heading"><div class="bar"><div><strong id="chat-heading">在线自助咨询</strong><small id="demo-note">体验版 · 请勿发送身份证号、手机号或真实订单号</small></div></div>
+    <div id="messages" role="log" aria-live="polite"></div><div id="quick" class="quick"></div>
+    <form id="chat-form"><input id="question" aria-label="咨询内容" maxlength="500" required><button class="primary" id="submit">发送 ↗</button></form><p id="feedback" role="status"></p></section>
+  </div>
+  <footer><p id="order-help">真实订单与人工售后，请从购买平台的原订单进入物流或联系卖家。</p></footer>
+</main>
+<script id="embedded-faq" type="application/json">[{"id":"SHIP-COUNTRIES","question":"韩国直邮发往哪里？","match":"配送国家|送.*国家|发往哪里|可以发中国|ship(ping)? (to|countries)|deliver to|중국.*배송.*가능","zh":"365 演示线路为韩国发往中国大陆。实际能否配送到指定地址，请以店铺结算页面为准。","ko":"365 데모 노선은 한국에서 중국 본토로 배송됩니다. 실제 배송 가능 여부는 결제 화면에서 확인하세요.","en":"The demo lane runs from South Korea to mainland China. Confirm actual address coverage at checkout.","titles":{"ko":"한국에서 어디로 배송하나요?","en":"Where do you ship from Korea?"}},{"id":"SHIP-TIME","question":"韩国直邮多久到？","match":"几天|多久|时效|how long|delivery time|shipping time|며칠|배송 기간","zh":"演示时效为发货后 5–12 个工作日。实际时效受路线、清关和末端派送影响，以订单通知为准。","ko":"데모 기준 발송 후 영업일 5~12일입니다. 실제 일정은 통관과 배송 상황에 따라 달라집니다.","en":"The demo estimate is 5–12 business days after dispatch. Real timing depends on routing, customs and final delivery.","titles":{"ko":"한국 직배송은 얼마나 걸리나요?","en":"How long does shipping take?"}},{"id":"RETURNS","question":"跨境商品如何退货？","match":"退货|售后政策|return policy|return window|반품","zh":"请从购买平台的订单售后入口申请，按页面提示保留包装及相关凭证。拆封、临期、破损等情况由平台或商家按实际订单审核。","ko":"구매 플랫폼의 주문 내역에서 반품을 신청하고 포장과 증빙을 보관하세요. 실제 주문 조건에 따라 심사됩니다.","en":"Start a return through the platform order page and retain packaging and evidence. Eligibility is reviewed against the actual order.","titles":{"ko":"상품을 어떻게 반품하나요?","en":"How do I return an item?"}},{"id":"SHIP-STATUS","question":"运输中、待清关是什么意思？","match":"状态.*意思|待清关|清关中|what does.*(transit|exception|customs) mean|통관 중","zh":"运输中表示包裹已进入运输流程。待清关表示通关流程尚未完成，具体状态请查看平台物流记录。","ko":"운송 중은 배송 과정에 있다는 뜻이며, 통관 대기는 통관이 완료되지 않았다는 뜻입니다.","en":"In transit means the parcel is in the transport process. Pending customs means clearance has not completed.","titles":{"ko":"운송 중과 통관 대기는 무슨 뜻인가요?","en":"What do in transit and pending customs mean?"}},{"id":"FAQ-TAX","question":"韩国直邮一定包税吗？","match":"包税|关税|进口税|税费|customs (dut|tax)|import tax|관세","url":"https://online.customs.gov.cn/ociswebserver/pages/jcjybcx/question.html","zh":"请在结算页核对税费是否包含，以及订单采用的申报渠道。个人邮递和跨境电商零售进口的适用规则不同，实际征收以海关和平台通知为准。","ko":"결제 시 세금 포함 여부와 신고 유형을 확인하세요. 실제 부과는 세관과 플랫폼 안내에 따릅니다.","en":"Check whether duties are included and how the order is declared. Postal imports and cross-border retail use different rules; follow customs and platform notices.","titles":{"ko":"한국 직배송에 관세가 포함되나요?","en":"Are duties included?"}},{"id":"FAQ-ID","question":"清关为什么要实名认证？","match":"实名|身份证|身份信息|identity verification|id card|실명|신분증","url":"https://online.customs.gov.cn/static/pages/guides/000629020000/000629020000.html","zh":"跨境电商零售进口申报涉及订购人身份核验。只在平台订单里的认证入口操作，请勿把身份证号或照片发到聊天窗口。","ko":"전자상거래 수입 신고에는 구매자 확인이 필요할 수 있습니다. 신분증은 채팅에 보내지 말고 플랫폼 인증 화면을 이용하세요.","en":"Cross-border retail declarations involve purchaser identity verification. Use the platform’s order verification flow and keep ID numbers and photos out of chat.","titles":{"ko":"통관 시 왜 본인 인증이 필요한가요?","en":"Why is identity verification required?"}},{"id":"FAQ-CHANNEL","question":"韩国直邮和保税仓有什么区别？","match":"保税仓|直邮.*区别|bonded warehouse|보세창고","url":"https://online.customs.gov.cn/static/pages/guides/000629020000/000629020000.html","zh":"直邮通常从境外发货。网购保税进口通常先备货至境内海关监管区域，产生订单后再办理相应通关。具体路线以商品页为准。","ko":"직배송은 보통 해외에서 출발합니다. 보세 방식은 감독 구역에 보관한 뒤 주문 후 통관 절차를 진행합니다.","en":"Direct shipping generally starts overseas. Bonded stock is held in a supervised zone and cleared for the individual order. Check the listing for the actual route.","titles":{"ko":"직배송과 보세창고는 어떻게 다른가요?","en":"How does direct shipping differ from bonded shipping?"}},{"id":"FAQ-SHELF","question":"食品保质期、过敏原怎么确认？","match":"保质期|有效期|过敏原|配料表|shelf life|expiry|allergens?|유통기한|알레르기","zh":"请核对实际包装的生产日期、消费期限、配料和过敏原标识。同款可能有不同批次和地区版本，目录无法确认某件商品的批次。","ko":"실물 포장의 제조일, 소비기한, 원재료와 알레르기 표시를 확인하세요. 배치와 판매 지역에 따라 다를 수 있습니다.","en":"Check the actual package for its dates, ingredients and allergens. Batches and regional variants may differ.","titles":{"ko":"소비기한과 알레르기는 어떻게 확인하나요?","en":"How do I check the use-by date and allergens?"}},{"id":"FAQ-AUTH","question":"怎么核验韩国代购商品来源？","match":"正品|真假|防伪|溯源|authentic|genuine|정품","zh":"请查看店铺资质、品牌授权信息及可核验的采购凭证，按品牌官方渠道核实。包装图和聊天答复无法单独证明真伪。","ko":"판매자 자격과 구매 증빙을 확인하고 브랜드 공식 채널에서 검증하세요.","en":"Check seller credentials and verifiable purchase evidence, then consult the brand’s official verification channel.","titles":{"ko":"정품 여부를 어떻게 확인하나요?","en":"How do I check authenticity?"}},{"id":"FAQ-WELLNESS","question":"红参、益生菌可以代替药物吗？","match":"代替药|能治|治病|疗效|服用|孕妇|儿童.*吃|剂量|dosage|pregnan|cure|복용|임산부|치료","zh":"客服只提供商品目录信息。请核对实际包装的适用人群和警示。涉及儿童、孕期、用药或具体健康情况，请先咨询医生或药师。","ko":"고객센터는 상품 정보만 제공합니다. 어린이, 임신, 약물 병용 관련 사항은 의사나 약사와 상담하세요.","en":"Support provides catalog information only. For children, pregnancy, medication use or individual health questions, consult a clinician or pharmacist.","titles":{"ko":"건강식품이 약을 대신할 수 있나요?","en":"Can supplements replace medication?"}},{"id":"FAQ-DAMAGE","question":"收到漏液、破损或错货怎么办？","match":"破损|漏液|错货|damaged|wrong item|파손|오배송","zh":"请保留外箱、面单和商品，拍摄问题及批次信息，并从购买平台的订单售后入口提交。请勿把带个人信息的面单发到聊天。","ko":"상자와 상품을 보관하고 문제를 촬영한 뒤 주문의 고객지원 메뉴에서 접수하세요.","en":"Keep the packaging and item, document the issue, and file it through the order’s support page. Keep private shipping-label details out of chat.","titles":{"ko":"파손되거나 다른 상품이 도착했어요.","en":"What if my item arrives damaged or incorrect?"}},{"id":"FAQ-ADDRESS","category":"配送","question":"下单后可以修改地址吗？","zh":"请尽快在原订单查看能否修改地址。已经发货时，请通过订单联系店铺或承运商确认。","ko":"주문 화면에서 주소 변경 가능 여부를 확인하세요. 이미 발송된 경우 판매자나 배송사에 문의하세요.","en":"Check the order for address edits. After dispatch, ask the seller or carrier.","titles":{"ko":"주문 후 주소를 변경할 수 있나요?","en":"Can I change my shipping address?"}},{"id":"FAQ-TRACK-NO","category":"配送","question":"在哪里看国际运单号？","zh":"打开购买平台的订单详情，进入物流页查看运单号和承运商。","ko":"구매 플랫폼의 주문 상세에서 배송 메뉴를 열어 운송장 번호와 배송사를 확인하세요.","en":"Open tracking in your order details to find the tracking number and carrier.","titles":{"ko":"운송장 번호는 어디서 확인하나요?","en":"Where is my tracking number?"}},{"id":"FAQ-NO-SCAN","category":"配送","question":"物流几天没更新怎么办？","zh":"国际运输、清关和承运商交接期间可能没有新扫描。若超过订单显示的预计时间，请通过原订单联系店铺。","ko":"국제 운송, 통관, 배송사 인계 중에는 조회가 지연될 수 있습니다. 예정일이 지나면 주문 화면에서 판매자에게 문의하세요.","en":"Tracking may pause during international transport, clearance or carrier handover. Contact the seller if your estimate has passed.","titles":{"ko":"배송 조회가 며칠째 그대로예요.","en":"Why has tracking stopped updating?"}},{"id":"FAQ-SPLIT","category":"配送","question":"为什么一个订单分成几个包裹？","zh":"商品可能按仓库、备货或运输条件分开寄送。在订单物流页逐个核对运单号及对应商品。","ko":"창고, 재고 또는 운송 조건에 따라 나눠 발송할 수 있습니다. 주문 화면에서 송장별 상품을 확인하세요.","en":"Items may ship separately based on stock location or shipping conditions. Check the items under each tracking number.","titles":{"ko":"한 주문이 왜 여러 상자로 배송되나요?","en":"Why was my order split into several parcels?"}},{"id":"FAQ-DELIVERED","category":"配送","question":"显示签收却没收到怎么办？","zh":"先核对门卫、驿站、家人代收及承运商签收记录。仍找不到时，请通过原订单联系店铺或承运商。","ko":"경비실, 보관함, 가족 수령 여부와 배송 기록을 확인한 뒤 찾지 못하면 판매자나 배송사에 문의하세요.","en":"Check pickup points, household members and delivery records. Contact the seller or carrier if the parcel is still missing.","titles":{"ko":"배송 완료인데 상품을 받지 못했어요.","en":"Tracking says delivered, but I did not get my parcel."}},{"id":"FAQ-DELIVERY-FAILED","category":"配送","question":"派送失败或地址错误怎么办？","zh":"通过官方物流页面查看失败原因，按提示联系承运商或从订单页联系店铺。","ko":"공식 배송 페이지에서 실패 사유를 확인하고 배송사나 판매자에게 문의하세요.","en":"Check the official tracking page for the failure reason and contact the carrier or seller.","titles":{"ko":"배송이 실패하면 어떻게 하나요?","en":"What should I do if delivery fails?"}},{"id":"FAQ-SHIPPING-FEE","category":"配送","question":"运费怎么计算？","zh":"结算页会按商品、收货地址和运输方式显示适用运费。分包裹或活动优惠以提交订单前的明细为准。","ko":"결제 화면에서 상품, 주소, 배송 방식에 따른 배송비를 확인하세요.","en":"Check checkout for the shipping charge for the items, address and selected method.","titles":{"ko":"배송비는 어떻게 계산하나요?","en":"How are shipping fees calculated?"}},{"id":"FAQ-CUSTOMS-ACTION","category":"清关","question":"清关提示补充资料怎么办？","zh":"先从原订单的物流页面核对提示，再使用购买平台或承运商的官方入口提交所需材料。","ko":"주문 배송 화면에서 안내를 확인하고 플랫폼 또는 배송사의 공식 창구로 서류를 제출하세요.","en":"Confirm the request in order tracking and submit documents through the platform or carrier’s official channel.","titles":{"ko":"통관에 추가 서류가 필요하면 어떻게 하나요?","en":"What if customs requests documents?"}},{"id":"FAQ-NAME-MISMATCH","category":"清关","question":"实名认证姓名不一致怎么办？","zh":"请在订单的官方实名认证入口核对信息并按提示处理。若页面无法修改，请联系购买平台。","ko":"공식 본인 인증 화면에서 정보를 확인하세요. 수정할 수 없으면 구매 플랫폼에 문의하세요.","en":"Check the official order verification flow. Contact the platform if you cannot make the correction.","titles":{"ko":"인증 이름이 일치하지 않으면 어떻게 하나요?","en":"What if the verification name does not match?"}},{"id":"FAQ-TAX-PROOF","category":"清关","question":"如何核对补税通知是真是假？","zh":"从原订单或承运商官网查验通知，确认对应运单和缴费入口。不要通过陌生链接提交付款或身份资料。","ko":"원래 주문 또는 배송사 공식 사이트에서 송장과 결제 경로를 확인하세요.","en":"Verify the notice and payment route through your order or the carrier’s official site.","titles":{"ko":"관세 납부 안내가 진짜인지 어떻게 확인하나요?","en":"How do I verify a duty payment notice?"}},{"id":"FAQ-IMPORT-RESTRICTED","category":"清关","question":"什么商品能寄到中国？","zh":"可寄范围与申报渠道、商品类别和运输条件有关。下单前请核对商品结算提示和承运商要求。","ko":"배송 가능 여부는 신고 방식, 상품 종류, 운송 조건에 따라 달라집니다. 결제 화면과 배송사 안내를 확인하세요.","en":"Eligibility depends on the declaration channel, product type and transport conditions. Check checkout and the carrier requirements.","titles":{"ko":"어떤 상품을 중국으로 보낼 수 있나요?","en":"Which products can be shipped to China?"}},{"id":"FAQ-CANCEL","category":"订单与售后","question":"可以取消订单吗？","zh":"请在订单页查看取消或退款入口。订单已发货时，按平台售后流程申请并等待店铺审核。","ko":"주문 화면에서 취소 또는 환불 메뉴를 확인하세요. 이미 발송되었다면 판매 플랫폼의 절차를 따르세요.","en":"Check your order page for cancellation. After dispatch, use the platform’s after-sales process.","titles":{"ko":"주문을 취소할 수 있나요?","en":"Can I cancel my order?"}},{"id":"FAQ-MISSING","category":"订单与售后","question":"收到商品少件怎么办？","zh":"先核对订单是否拆包发货。若确认少件，保留包装与商品照片，并从订单页提交售后。","ko":"분할 배송 여부를 먼저 확인하세요. 누락이 확인되면 포장과 사진을 보관하고 주문 화면에서 접수하세요.","en":"Check for split shipments. If an item is missing, retain packaging and photos and file a request on the order page.","titles":{"ko":"주문한 상품이 일부 누락됐어요.","en":"What if an item is missing?"}},{"id":"FAQ-REFUND-STATUS","category":"订单与售后","question":"在哪里查退款进度？","zh":"打开原订单的退款或售后详情页，查看处理状态和退款去向。","ko":"원래 주문의 환불 내역에서 진행 상태와 환불 수단을 확인하세요.","en":"Check the refund or after-sales details for the status and destination.","titles":{"ko":"환불 진행 상태는 어디서 확인하나요?","en":"Where do I check my refund status?"}},{"id":"FAQ-RETURN-POSTAGE","category":"订单与售后","question":"退货运费谁承担？","zh":"以订单页展示的退货原因、平台规则和审核结果为准。寄出前请通过官方售后入口核对地址和费用。","ko":"반품 사유와 플랫폼 심사 결과에 따라 달라집니다. 발송 전에 반품 주소와 비용을 확인하세요.","en":"Check platform rules and the decision for your return reason. Confirm fees and the address before shipping.","titles":{"ko":"반품 배송비는 누가 부담하나요?","en":"Who pays for return shipping?"}},{"id":"FAQ-RETURN-OPENED","category":"订单与售后","question":"商品拆封还能退吗？","zh":"请在原订单查看退货条件。食品、美妆和保健品拆封后，能否退货由平台结合商品状况及售后原因处理。","ko":"원래 주문의 반품 조건을 확인하세요. 개봉한 식품, 화장품, 건강식품은 상품 상태와 사유에 따라 처리됩니다.","en":"Check the order terms. Returns of opened food, beauty or wellness items depend on condition and reason.","titles":{"ko":"개봉한 상품을 반품할 수 있나요?","en":"Can I return an opened item?"}},{"id":"FAQ-INVOICE","category":"订单与售后","question":"能提供发票或购买凭证吗？","zh":"请查看订单的发票或凭证入口，或联系店铺确认可以提供的单据。","ko":"주문 화면의 영수증 메뉴를 확인하거나 판매자에게 발급 가능한 증빙을 문의하세요.","en":"Check your order’s receipt options or ask the seller which documents they can issue.","titles":{"ko":"영수증을 받을 수 있나요?","en":"Can I get a receipt or proof of purchase?"}},{"id":"FAQ-VARIANT","category":"商品与使用","question":"韩国版和中国销售版一样吗？","zh":"包装、标识、容量和配料可能因地区及批次不同。请按商品页所列版本和实际标签核对。","ko":"지역과 생산 배치에 따라 포장, 표시, 용량, 원재료가 다를 수 있습니다.","en":"Packaging, labels, quantity and ingredients may differ by market or batch. Check the listed variant and package.","titles":{"ko":"한국판과 중국 판매판이 같은가요?","en":"Are Korean and Chinese market versions identical?"}},{"id":"FAQ-STORAGE","category":"商品与使用","question":"食品和保健品怎么保存？","zh":"请查看包装注明的储存条件及开封后要求。如果收到时包装破损或储存状态异常，先通过订单咨询。","ko":"포장에 표시된 보관 조건과 개봉 후 지침을 확인하세요.","en":"Follow the label’s storage and after-opening instructions. Contact order support if the package arrives damaged.","titles":{"ko":"식품과 건강식품은 어떻게 보관하나요?","en":"How should I store food and supplements?"}},{"id":"FAQ-SHADE","category":"商品与使用","question":"韩妆色号怎么选？","zh":"请以商品页色号、官方试色和实际光线为参考，下单前核对订单所选色号。","ko":"상품 페이지의 색상 번호와 공식 발색을 참고하고 주문 전 선택한 색상을 확인하세요.","en":"Use listing shade numbers and official swatches, and check your selected shade before ordering.","titles":{"ko":"화장품 색상은 어떻게 고르나요?","en":"How do I choose a makeup shade?"}},{"id":"FAQ-BOX","category":"商品与使用","question":"包装换新版是不是发错了？","zh":"包装可能随版本或批次更新。请核对商品名、规格、色号和批号，有差异时从订单页咨询。","ko":"버전이나 배치에 따라 포장이 바뀔 수 있습니다. 상품명, 규격, 색상과 배치를 확인하세요.","en":"Packaging may change. Compare the name, size, shade and batch against your order.","titles":{"ko":"포장이 바뀌었는데 잘못 배송된 건가요?","en":"Does new packaging mean I received the wrong item?"}},{"id":"FAQ-KOREAN-LABEL","category":"商品与使用","question":"韩文包装上的日期怎么看？","zh":"先区分制造日期（제조일）与消费期限（소비기한），再结合包装的日期格式确认。有疑问时请向店铺核对。","ko":"제조일과 소비기한을 구분하고 포장의 날짜 표기 방식을 확인하세요.","en":"Distinguish the manufacture date (제조일) from the use-by date (소비기한) and confirm the date format.","titles":{"ko":"한국어 포장의 날짜는 어떻게 읽나요?","en":"How do I read dates on Korean packaging?"}}]</script>
+<script type="module">const get = id => document.getElementById(id);
+const strings = {
+  zh: ['有什么可以帮你？','了解韩国直邮、清关、商品和售后。','开始咨询','常见问题','搜索常见问题','例如：清关、关税、退货','在线自助咨询','体验版 · 请勿发送身份证号、手机号或真实订单号','输入你的问题','发送 ↗','真实订单与人工售后，请从购买平台的原订单进入物流或联系卖家。','全部','条问答','中国海关参考资料','你好！你可以问我韩国直邮、关税、商品和退货。','暂时无法确认。请试试搜索常见问题，或从原订单联系卖家。','暂时无法加载，请重试。'],
+  ko: ['무엇을 도와드릴까요?','한국 직배송, 통관, 상품, 구매 후 지원을 확인하세요.','문의 시작','자주 묻는 질문','자주 묻는 질문 검색','예: 통관, 관세, 반품','온라인 도움말','체험판 · 개인정보나 실제 주문번호를 입력하지 마세요','질문을 입력하세요','보내기 ↗','실제 주문과 상담은 구매 플랫폼의 주문 화면에서 확인하세요.','전체','개 질문','중국 세관 참고 자료','안녕하세요! 직배송, 관세, 상품, 반품을 문의해 주세요.','확인하기 어렵습니다. 도움말을 검색하거나 주문 화면에서 판매자에게 문의하세요.','다시 시도해 주세요.'],
+  en: ['How can we help?','Find help with shipping from Korea, customs, products and returns.','Start a chat','Frequently asked questions','Search FAQs','e.g. customs, duties, returns','Self-service support','Preview · Keep personal details and real order numbers out of chat','Type your question','Send ↗','For an actual order or seller support, open the original order on your shopping platform.','All','questions','China Customs reference','Hi! Ask me about shipping from Korea, duties, products or returns.','Try searching the FAQ, or contact the seller from your original order.','Could not load. Please try again.']
+};
+const groups = {
+  '配送':['配送','배송','Shipping'], '清关':['清关与税费','통관 및 관세','Customs & duties'],
+  '订单与售后':['订单与售后','주문 및 반품','Orders & returns'], '商品与使用':['商品与使用','상품 및 사용','Products']
+};
+const originalGroups = {
+  'SHIP-COUNTRIES':'配送','SHIP-TIME':'配送','SHIP-STATUS':'清关','FAQ-TAX':'清关','FAQ-ID':'清关','FAQ-CHANNEL':'清关',
+  RETURNS:'订单与售后','FAQ-DAMAGE':'订单与售后','FAQ-SHELF':'商品与使用','FAQ-AUTH':'商品与使用','FAQ-WELLNESS':'商品与使用'
+};
+const fields = ['heading','intro','chat-link','faq-heading','search-label',null,'chat-heading','demo-note',null,'submit','order-help'];
+let language = 'zh', category = '', entries = [];
+const element = (name,text) => { const node = document.createElement(name); node.textContent = text; return node; };
+const localized = row => language === 'zh' ? row.question : row.titles[language];
+function source(row) {
+  const link = element('a',strings[language][13]); link.href = row.url; link.target = '_blank'; link.rel = 'noopener noreferrer'; return link;
+}
+function renderFaq() {
+  const words = get('search').value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const visible = entries.filter(row => {
+    const text = [row.question,...Object.values(row.titles),row.zh,row.ko,row.en].join(' ').toLowerCase();
+    return (!category || row.category === category) && words.every(word => text.includes(word));
+  });
+  get('result-count').textContent = visible.length + ' ' + strings[language][12];
+  get('faq-list').replaceChildren(...visible.map(row => {
+    const item = element('details','');
+    item.append(element('summary',localized(row)),element('p',row[language]));
+    if (row.url) item.append(source(row));
+    return item;
+  }));
+  get('filters').replaceChildren(...['',...Object.keys(groups)].map(key => {
+    const button = element('button',key ? groups[key][['zh','ko','en'].indexOf(language)] : strings[language][11]);
+    button.setAttribute('aria-pressed',String(key === category));
+    button.onclick = () => { category = key; renderFaq(); };
+    return button;
+  }));
+}
+function append(text, own = false, row) {
+  const bubble = element('div',text); bubble.className = own ? 'bubble mine' : 'bubble';
+  if (row?.url) { bubble.append(element('br',''),source(row)); }
+  const log = get('messages'); log.append(bubble); log.scrollTop = log.scrollHeight;
+}
+function ask(question) {
+  append(question,true);
+  const normalized = question.toLowerCase().trim().replace(/[？?。.!！]+$/u,'');
+  const phrases = question.toLowerCase().match(/[a-z]{4,}|[\p{Script=Han}]{2,}|[\p{Script=Hangul}]{2,}/gu) || [];
+  const related = entries.map(entry => {
+    const title = [entry.question,...Object.values(entry.titles)].join(' ').toLowerCase();
+    return {entry,score:phrases.filter(word => title.includes(word)).length};
+  }).sort((a,b)=>b.score-a.score);
+  const row = entries.find(entry => [entry.question,...Object.values(entry.titles)].some(title => title.toLowerCase().replace(/[？?。.!！]+$/u,'') === normalized))
+    || entries.find(entry => entry.match && new RegExp(entry.match,'i').test(question))
+    || (related[0]?.score >= 2 && related[0].score > (related[1]?.score || 0) ? related[0].entry : null);
+  append(row ? row[language] : strings[language][15],false,row);
+}
+function localize() {
+  const t = strings[language]; document.documentElement.lang = language === 'zh' ? 'zh-CN' : language;
+  fields.forEach((id,index) => { if (id) get(id).textContent = t[index]; });
+  get('search').placeholder = t[5]; get('question').placeholder = t[8]; get('question').setAttribute('aria-label',t[8]);
+  get('messages').replaceChildren(); append(t[14]);
+  get('quick').replaceChildren(...['FAQ-TAX','SHIP-TIME','RETURNS'].map(id => entries.find(row => row.id === id)).filter(Boolean).map(row => {
+    const button = element('button',localized(row)); button.onclick = () => ask(localized(row)); return button;
+  }));
+  renderFaq();
+}
+get('language').onchange = event => { language = event.target.value; localize(); };
+get('search').oninput = renderFaq;
+get('chat-form').onsubmit = event => {
+  event.preventDefault(); const field = get('question');
+  if (field.value.trim()) ask(field.value.trim());
+  field.value = '';
+};
+localize();
+try {
+  const embedded = get('embedded-faq');
+  let data;
+  if (embedded) {
+    data = JSON.parse(embedded.textContent);
+  } else {
+    const response = await fetch('/api/faq');
+    if (!response.ok) throw new Error('FAQ request failed');
+    data = await response.json();
+  }
+  entries = data.map(row => ({...row,category:row.category || originalGroups[row.id]}));
+  localize();
+} catch {
+  get('feedback').textContent = strings[language][16];
+}
+</script>
+</body></html>

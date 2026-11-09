@@ -1,0 +1,2357 @@
+{
+  "experience": [
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "EXPERIENCE 01"
+              ],
+              "class": "tag"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h3",
+                      "children": [
+                        "奇安信科技集团股份有限公司"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "B端 AI 产品经理实习生"
+                      ],
+                      "class": "intro-text"
+                    }
+                  ]
+                },
+                {
+                  "tag": "time",
+                  "children": [
+                    "2026.06 — 2026.08"
+                  ],
+                  "class": "date"
+                }
+              ],
+              "class": "entry-top"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "120+"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "LLM 测试用例"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "1.4 亿+"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "测试环境累计 Tokens"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "20+ 类"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "典型 Bad Case"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                }
+              ],
+              "class": "stats"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "评测驱动迭代"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "面向威胁情报、日志解读、告警归并等场景，设计并执行测试用例，评估准确性、推理完整性及回复稳定性，归纳典型 Bad Case，为模型优化提供依据。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "AgentOS 需求落地"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "将 30+ 用户场景转化为需求、交互逻辑与数据流说明，覆盖 6 个一级模块、10+ 子模块；撰写 PRD，协同算法、研发及测试澄清 20+ 功能需求，推动确认后的功能进入开发。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "产品分析与业务支持"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "从模型能力、场景适配、Embedding 路由、RAG 机制等 6+ 维度完成 3 份竞品分析，2 条建议进入产品规划讨论；维护 15+ 份中英文文档，梳理 50+ 功能与技术参数，支持销售、交付及客户沟通。"
+                      ]
+                    }
+                  ],
+                  "class": "full"
+                }
+              ],
+              "class": "details"
+            }
+          ],
+          "class": "entry"
+        }
+      ]
+    },
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "EXPERIENCE 02"
+              ],
+              "class": "tag"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h3",
+                      "children": [
+                        "珠海横琴方普私募基金管理有限公司"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "基金运营实习生"
+                      ],
+                      "class": "intro-text"
+                    }
+                  ]
+                },
+                {
+                  "tag": "time",
+                  "children": [
+                    "2026.01 — 2026.02"
+                  ],
+                  "class": "date"
+                }
+              ],
+              "class": "entry-top"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "5+ 只"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "基金全生命周期运营"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "20+ 份"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "机构尽调问卷"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "10+ 家"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "机构方需求"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                }
+              ],
+              "class": "stats"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "金融产品运营"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "参与基金设立、备案、发行及存续运营，梳理产品材料、监管备案与托管协同流程，理解金融产品全生命周期和强合规业务约束。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "机构需求管理"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "将投资策略、风控、合规、交易等 15+ 模块复杂信息结构化输出；承接机构尽调需求，协同投资、合规、交易等角色完成需求澄清及材料交付。"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "class": "details"
+            }
+          ],
+          "class": "entry"
+        }
+      ]
+    },
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "EXPERIENCE 03"
+              ],
+              "class": "tag"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h3",
+                      "children": [
+                        "365 Mobile and Logistics Shop"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "韩国 · 跨境电商运营实习生"
+                      ],
+                      "class": "intro-text"
+                    }
+                  ]
+                },
+                {
+                  "tag": "time",
+                  "children": [
+                    "2024.03 — 2024.12"
+                  ],
+                  "class": "date"
+                }
+              ],
+              "class": "entry-top"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "15% → ",
+                        "<",
+                        "5%"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "临期商品损耗率"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "200+"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "月均 SIM 卡销售"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "≈15%"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "客单价提升"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                }
+              ],
+              "class": "stats"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "数据驱动运营"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "负责 80+ SKU 全生命周期管理，基于库存、效期及销售数据建立监控与缺货预警，制定清仓和补货策略并验证，形成数据监测、问题定位、策略优化、效果验证的闭环。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "用户洞察与策略迭代"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "按使用场景、停留周期及价格敏感度分层用户，结合 400+ 次业务办理与一线反馈优化套餐呈现和推荐；同步分析多渠道反馈，获取 200+ 线上咨询并反哺策略迭代。"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "class": "details"
+            }
+          ],
+          "class": "entry"
+        }
+      ]
+    }
+  ],
+  "honors": [
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "01"
+              ],
+              "class": "award-mark"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    "GOLD PRIZE / 2026"
+                  ],
+                  "class": "tag"
+                },
+                {
+                  "tag": "h3",
+                  "children": [
+                    "香港高校 GenAI Hackathon 金奖"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "children": [
+                    "Green Transport & Smart Mobility 赛道",
+                    {
+                      "tag": "br",
+                      "children": []
+                    },
+                    "AccessRoute HK 无障碍导航平台",
+                    {
+                      "tag": "br",
+                      "children": []
+                    },
+                    "Team 1022 HumanRoute · 腾讯云赞助"
+                  ],
+                  "class": "intro-text"
+                }
+              ]
+            }
+          ],
+          "class": "entry award"
+        }
+      ],
+      "certificate": {
+        "src": "assets/awards/accessroute-hk-gold-prize-certificate.jpg",
+        "label": "查看获奖证书 ↗",
+        "alt": "香港高校 GenAI Hackathon Gold Prize Winner 原始奖状，Team 1022 HumanRoute，成员包含 Zhang Jia Ming（HKBU）",
+        "id": "hackathon",
+        "title": "GENAI HACKATHON / GOLD PRIZE"
+      }
+    },
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "02"
+              ],
+              "class": "award-mark"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    "ACADEMIC HONOR"
+                  ],
+                  "class": "tag"
+                },
+                {
+                  "tag": "h3",
+                  "children": [
+                    "Dean’s List"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "children": [
+                    "Solbridge International School of Business（韩国）",
+                    {
+                      "tag": "br",
+                      "children": []
+                    },
+                    "学期满绩"
+                  ],
+                  "class": "intro-text"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "children": [
+                            "96.8"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "children": [
+                            "绩点百分制"
+                          ]
+                        }
+                      ],
+                      "class": "stat"
+                    },
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "children": [
+                            "前 5%"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "children": [
+                            "专业排名"
+                          ]
+                        }
+                      ],
+                      "class": "stat"
+                    }
+                  ],
+                  "class": "stats"
+                }
+              ]
+            }
+          ],
+          "class": "entry award"
+        }
+      ],
+      "certificate": {
+        "id": "deans-list",
+        "title": "ACADEMIC HONOR / DEAN'S LIST",
+        "label": "查看 Dean’s List 荣誉证书 ↗",
+        "src": "assets/awards/deans-list-certificate.jpg",
+        "alt": "SolBridge International School of Business Dean’s List 真实荣誉证明，原始 PDF 页面完整呈现"
+      }
+    },
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "03"
+              ],
+              "class": "award-mark"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    "SCHOLARSHIPS"
+                  ],
+                  "class": "tag"
+                },
+                {
+                  "tag": "h3",
+                  "children": [
+                    "多项全额奖学金"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "children": [
+                    "本科就读期间获多项全额奖学金。",
+                    {
+                      "tag": "br",
+                      "children": []
+                    },
+                    "Solbridge International School of Business · 工商管理",
+                    {
+                      "tag": "br",
+                      "children": []
+                    },
+                    "2023.09 — 2027.06"
+                  ],
+                  "class": "intro-text"
+                }
+              ]
+            }
+          ],
+          "class": "entry award"
+        }
+      ]
+    },
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "04"
+              ],
+              "class": "award-mark"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    "ADMISSION / NTU"
+                  ],
+                  "class": "tag"
+                },
+                {
+                  "tag": "h3",
+                  "children": [
+                    "南洋理工大学（NTU）硕士已录取"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "children": [
+                    "新加坡 · 企业人工智能专业",
+                    {
+                      "tag": "br",
+                      "children": []
+                    },
+                    "2027 年秋季入学",
+                    {
+                      "tag": "br",
+                      "children": []
+                    },
+                    "2027.08 — 2028.06"
+                  ],
+                  "class": "intro-text"
+                }
+              ]
+            }
+          ],
+          "class": "entry award"
+        }
+      ],
+      "certificate": {
+        "id": "ntu-offer",
+        "title": "NTU / ADMISSION OFFER",
+        "label": "查看 NTU 录取通知书 ↗",
+        "src": "assets/awards/ntu-admission-offer.jpg",
+        "alt": "南洋理工大学 NTU 录取通知书原图，保留原始正文和版式"
+      }
+    }
+  ],
+  "profile": {
+    "name": "张嘉铭",
+    "role": "AI 产品经理实习生",
+    "school": "SolBridge",
+    "major": "工商管理 · 数据分析与数字化创新",
+    "education": [
+      {
+        "title": "SolBridge International School of Business",
+        "meta": "2023.09 — 2027.06 · 工商管理本科",
+        "text": "全英文授课；绩点百分制 96.8，专业前 5%。主修方向为数据分析与数字化创新。"
+      },
+      {
+        "title": "南洋理工大学（新加坡）",
+        "meta": "2027.08 — 2028.06 · 企业人工智能硕士 · 已录取",
+        "text": "2027 年秋季入学。2025.08 — 2025.12 曾在南洋理工大学进行本科学期交换。"
+      },
+      {
+        "title": "香港浸会大学",
+        "meta": "2026.08 — 2026.12 · 本科学期交换",
+        "text": "相关课程包括商业 AI、AI 与数字传播、生成式 AI 的创意应用、商业数据管理与可视化、金融科技 Python 编程。"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "PROJECT 01 / GOLD PRIZE"
+              ],
+              "class": "tag"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h3",
+                      "children": [
+                        "AccessRoute HK 无障碍导航平台"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "香港高校 GenAI Hackathon 2026 · 腾讯云赞助",
+                        {
+                          "tag": "br",
+                          "children": []
+                        },
+                        "Green Transport & Smart Mobility 赛道 · Team 1022 HumanRoute"
+                      ],
+                      "class": "intro-text"
+                    }
+                  ]
+                },
+                {
+                  "tag": "time",
+                  "children": [
+                    "2026.09 — 至今"
+                  ],
+                  "class": "date"
+                }
+              ],
+              "class": "entry-top"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "GOLD"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "赛道金奖"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "110 份"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "团队有效问卷"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                }
+              ],
+              "class": "stats"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "用户研究与产品设计"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "基于团队收集的 110 份有效问卷，识别轮椅使用者与行动不便长者在香港跨楼层出行中的痛点。参与设计室内外一体化导航方案，将需求拆解为行动画像、垂直路线规划、障碍上报与动态改道。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "AI 交互与可靠性设计"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "负责自然语言出行需求理解与路线解释的 Prompt 设计和调试，探索将口语需求转为结构化偏好。由确定性引擎计算路线，LLM 负责理解和解释，同时关注路线幻觉与 Token 消耗。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "竞品分析与原型验证"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "从模型表现、交互逻辑和 RAG 检索机制对比香港本地出行应用，协同团队完成低保真原型和核心功能 Demo。项目获 Green Transport & Smart Mobility 赛道金奖。"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "class": "details"
+            }
+          ],
+          "class": "entry"
+        }
+      ]
+    },
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "PROJECT 02 / AI AGENT"
+              ],
+              "class": "tag"
+            },
+            {
+              "tag": "h3",
+              "children": [
+                "私募基金运营 AI Agent"
+              ]
+            },
+            {
+              "tag": "p",
+              "children": [
+                "面向私募基金运营中的法规查询、流程知识分散与合规审核需求，设计并搭建可体验的 AI Agent Demo。"
+              ],
+              "class": "intro-text"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "58"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "启用现行法规切片"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "59/60"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "合成测试集完全通过"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "strong",
+                      "children": [
+                        "8/8"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "高风险正确拒答"
+                      ]
+                    }
+                  ],
+                  "class": "stat"
+                }
+              ],
+              "class": "stats"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "需求拆解与知识库设计"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "调研合规工具与 RAG 方案，围绕募集限制和信息披露等业务场景，构建法规、流程、模板与 FAQ 四类知识库，串联检索、排序、上下文注入、回答生成与证据引用。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "风险控制与人工审核"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "针对投资建议、保本承诺和公开募集等高风险请求，设计规则拦截与人工审核流程。按子问题核查证据和引用，证据不足时提示补充信息或转人工复核。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "场景评测与迭代"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "将真实业务场景转化为合成测试题，分别检验检索、回答和风险处理。V1.2 本地 Mock 评测中，60 道合成题有 59 道完全通过，8 道高风险题全部正确拒答。"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "class": "details"
+            },
+            {
+              "tag": "p",
+              "children": [
+                "评测口径为 V1.2 本地 Mock，合成测试集已参与迭代。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodes": [
+        {
+          "tag": "article",
+          "children": [
+            {
+              "tag": "div",
+              "children": [
+                "PROJECT 03 / AI CUSTOMER SERVICE"
+              ],
+              "class": "tag"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "h3",
+                      "children": [
+                        "跨境电商 AI 智能客服"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "365 跨境智能客服。面向韩国商品选购与售后，提供三语 FAQ 体验，并在独立工作台验证商品、套餐、模拟订单和转接流程。"
+                      ],
+                      "class": "intro-text"
+                    }
+                  ]
+                }
+              ],
+              "class": "entry-top"
+            },
+            {
+              "tag": "div",
+              "children": [
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "需求分层与知识库设计"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "将分散的客服咨询归为产品咨询、套餐推荐和物流追踪三类核心场景，为每类意图组织独立知识库与 Prompt，让问答按业务场景检索。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "端到端工作流"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "设计 Dify Chatflow 的意图识别、补槽、知识路由和结构化输出。现阶段以离线规则验证流程与事实校验，Dify Live 待真实实例联调。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "section",
+                  "children": [
+                    {
+                      "tag": "h4",
+                      "children": [
+                        "人工接管与回答质量"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "children": [
+                        "在无有效召回、用户主动要求人工或模型判断异常时触发人工转接，明确自动问答的覆盖范围与人工接管条件。"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "class": "details"
+            },
+            {
+              "tag": "div",
+              "children": [
+                "意图识别 → 场景路由 → 事实校验 → 答复或转接"
+              ],
+              "class": "flow"
+            }
+          ],
+          "class": "entry"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "projects",
+      "num": "01",
+      "zh": "项目经历",
+      "en": "PROJECTS",
+      "keywords": "AI Agent / 无障碍导航 / AI 客服",
+      "caption": "从真实需求，到可用的产品。"
+    },
+    {
+      "id": "experience",
+      "num": "02",
+      "zh": "实习经历",
+      "en": "EXPERIENCE",
+      "keywords": "奇安信 / 私募基金 / 跨境电商",
+      "caption": "在真实业务里，理解产品的价值。"
+    },
+    {
+      "id": "skills",
+      "num": "03",
+      "zh": "专业技能",
+      "en": "SKILLS",
+      "keywords": "Agent / RAG / LLM 评测 / Python",
+      "caption": "连接 AI 技术、产品与数据。"
+    },
+    {
+      "id": "honors",
+      "num": "04",
+      "zh": "奖项荣誉",
+      "en": "HONORS",
+      "keywords": "Hackathon 金奖 / Dean’s List",
+      "caption": "每一份认可，都是继续探索的起点。"
+    }
+  ],
+  "skills": [
+    {
+      "nodes": [
+        {
+          "tag": "div",
+          "children": [
+            {
+              "tag": "section",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    "01 / AI & PRODUCT"
+                  ],
+                  "class": "tag"
+                },
+                {
+                  "tag": "h3",
+                  "children": [
+                    "AI 大模型与产品能力"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "children": [
+                    "从需求拆解、产品设计，到工作流搭建与评测迭代。"
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "span",
+                      "children": [
+                        "Dify"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "RAG"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "AI Agent 设计"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "Prompt Engineering"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "LLM 评测"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "Bad Case 分析"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "PRD 撰写"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "用户流程设计"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "竞品分析"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "需求拆解"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "Axure"
+                      ],
+                      "class": "tag"
+                    }
+                  ],
+                  "class": "chips"
+                }
+              ],
+              "class": "skill"
+            },
+            {
+              "tag": "section",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    "02 / DATA & TOOLS"
+                  ],
+                  "class": "tag"
+                },
+                {
+                  "tag": "h3",
+                  "children": [
+                    "数据与工具"
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "span",
+                      "children": [
+                        "Python"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "SQL"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "Excel / Sheets"
+                      ],
+                      "class": "tag"
+                    },
+                    {
+                      "tag": "span",
+                      "children": [
+                        "基础数据分析与可视化"
+                      ],
+                      "class": "tag"
+                    }
+                  ],
+                  "class": "chips"
+                }
+              ],
+              "class": "skill"
+            },
+            {
+              "tag": "section",
+              "children": [
+                {
+                  "tag": "div",
+                  "children": [
+                    "03 / LANGUAGES"
+                  ],
+                  "class": "tag"
+                },
+                {
+                  "tag": "h3",
+                  "children": [
+                    "语言能力"
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "children": [
+                            "中文"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "children": [
+                            "母语"
+                          ]
+                        }
+                      ],
+                      "class": "stat"
+                    },
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "children": [
+                            "IELTS 7.0"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "children": [
+                            "简历原文：7.0（6.5），可作为工作语言"
+                          ]
+                        }
+                      ],
+                      "class": "stat"
+                    },
+                    {
+                      "tag": "div",
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "children": [
+                            "TOPIK 2级"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "children": [
+                            "韩语"
+                          ]
+                        }
+                      ],
+                      "class": "stat"
+                    }
+                  ],
+                  "class": "stats"
+                }
+              ],
+              "class": "skill"
+            }
+          ],
+          "class": "skills"
+        }
+      ]
+    }
+  ],
+  "media": {
+    "characters": {
+      "default": "assets/character/default.png",
+      "projects": "assets/character/projects.png",
+      "experience": "assets/character/experience.png",
+      "skills": "assets/character/skills.png",
+      "honors": "assets/character/honors.png"
+    },
+    "introVideo": "assets/video/intro.mp4",
+    "introPoster": "assets/images/intro-poster.png"
+  },
+  "ui": {
+    "pageTitle": "张嘉铭 · PERSONAL ARCHIVE",
+    "description": "张嘉铭的互动个人档案馆：AI 产品、项目经历、实习经历、专业技能与荣誉。",
+    "brandSuffix": "/ PORTFOLIO",
+    "discipline": "AI PRODUCT · DESIGN · DATA",
+    "mainTitle": "PERSONAL ARCHIVE",
+    "archiveLabel": "个人档案馆",
+    "handwriting": "保持好奇，\n持续创造",
+    "bottomNote": "把想法变成可用的产品。",
+    "footer": [
+      "张嘉铭",
+      "女",
+      "22岁",
+      "爱好：跳舞、看电影、探索新工具"
+    ],
+    "shareTitle": "张嘉铭 · 个人档案馆",
+    "introCaption": "HELLO, WELCOME TO MY WORLD.",
+    "educationTitle": "教育背景 / EDUCATION"
+  },
+  "caseStudy": {
+    "version": "V1.2",
+    "snapshot": "2026-10-29",
+    "demo": "assets/case/demo.png",
+    "review": "assets/case/review.png",
+    "architecture": [
+      {
+        "id": "U",
+        "label": "运营 / 合规支持用户",
+        "role": "目标用户",
+        "input": "业务核对问题",
+        "output": "Web 输入",
+        "reason": "个人产品实践，尚无真实访谈",
+        "module": "05_Web_Demo"
+      },
+      {
+        "id": "W",
+        "label": "原生 Web Demo",
+        "role": "展示原文、引用及会话",
+        "input": "问题和服务返回",
+        "output": "可展开的引用与状态",
+        "reason": "浏览器会话不等于语义连续问答",
+        "module": "05_Web_Demo"
+      },
+      {
+        "id": "G",
+        "label": "同源 Web 代理",
+        "role": "固定本机上游",
+        "input": "HTTP 请求",
+        "output": "转发到 Python RAG",
+        "reason": "不允许随意代理外部服务",
+        "module": "05_Web_Demo"
+      },
+      {
+        "id": "A",
+        "label": "Python HTTP 工作流",
+        "role": "编排检索、风控与验证",
+        "input": "问题与参数",
+        "output": "状态、动作、引用",
+        "reason": "节点失败则停止发布",
+        "module": "workflow.py / api_server.py"
+      },
+      {
+        "id": "C",
+        "label": "分类与查询规划",
+        "role": "识别业务主题并拆分子问题",
+        "input": "合法输入",
+        "output": "分类、query_plan、风险提示",
+        "reason": "复杂问题逐子题查证",
+        "module": "intent_classifier.py / query_plan.py"
+      },
+      {
+        "id": "R",
+        "label": "风险预检",
+        "role": "权威规则判断动作与语境",
+        "input": "当前问题与近两条历史",
+        "output": "ALLOW / WARN / REFUSE / CLARIFY / VERIFY_REQUIRED / REVIEW",
+        "reason": "学习意图与违规生成分开",
+        "module": "risk_checker.py"
+      },
+      {
+        "id": "S",
+        "label": "元数据过滤与 BM25",
+        "role": "先过滤，再检索与规则重排",
+        "input": "知识白名单、query_plan",
+        "output": "候选条目与得分",
+        "reason": "小型已核语料先建立可审查检索链",
+        "module": "metadata_filter.py / retriever.py"
+      },
+      {
+        "id": "E",
+        "label": "逐子题证据检查",
+        "role": "检查完整依赖闭包与必要条件",
+        "input": "各子题候选条款",
+        "output": "充分 / 不充分 / 条件缺失",
+        "reason": "命中条目不等于足以回答",
+        "module": "evidence_checker.py"
+      },
+      {
+        "id": "M",
+        "label": "Mock 原文选择",
+        "role": "选择已有法规原文",
+        "input": "完整原文上下文",
+        "output": "原文摘录，不是自由生成",
+        "reason": "当前验收只验证 MOCK_MODE",
+        "module": "answer_generator.py / MockGenerator"
+      },
+      {
+        "id": "V",
+        "label": "程序引用与输出风险检查",
+        "role": "核对 ID 映射、全文与每组覆盖",
+        "input": "答案与条目映射",
+        "output": "校验通过或停止发布",
+        "reason": "不把形式有引用当作证据正确",
+        "module": "citation_validator.py / risk_checker.py"
+      },
+      {
+        "id": "K",
+        "label": "JSONL + 版本白名单",
+        "role": "知识数据与依赖",
+        "input": "62 条结构化条目",
+        "output": "58 条启用法规切片",
+        "reason": "待核和模拟资料隔离",
+        "module": "knowledge_loader.py"
+      },
+      {
+        "id": "Q",
+        "label": "18 条版本化风险规则",
+        "role": "独立规则配置",
+        "input": "动作与语境",
+        "output": "风险级别与处置",
+        "reason": "规则与工作流分别版本化",
+        "module": "risk_checker.py"
+      },
+      {
+        "id": "L",
+        "label": "JSONL trace",
+        "role": "保存可追溯运行记录",
+        "input": "执行结果",
+        "output": "本地 trace",
+        "reason": "日志只用于核对，不公开敏感原始记录",
+        "module": "observability.py"
+      },
+      {
+        "id": "H",
+        "label": "本地 SQLite 审核",
+        "role": "持久化演示审核",
+        "input": "需要人工核验的问题",
+        "output": "PENDING → NEEDS_INFO → APPROVED / REJECTED",
+        "reason": "未认证、非正式审批、不自动发布答案",
+        "module": "review_store.py"
+      }
+    ],
+    "edges": [
+      [
+        "U",
+        "W"
+      ],
+      [
+        "W",
+        "G"
+      ],
+      [
+        "G",
+        "A"
+      ],
+      [
+        "A",
+        "C"
+      ],
+      [
+        "C",
+        "R"
+      ],
+      [
+        "R",
+        "S"
+      ],
+      [
+        "S",
+        "E"
+      ],
+      [
+        "E",
+        "M"
+      ],
+      [
+        "M",
+        "V"
+      ],
+      [
+        "V",
+        "W"
+      ],
+      [
+        "K",
+        "S"
+      ],
+      [
+        "K",
+        "E"
+      ],
+      [
+        "K",
+        "V"
+      ],
+      [
+        "Q",
+        "R"
+      ],
+      [
+        "A",
+        "L"
+      ],
+      [
+        "A",
+        "H"
+      ]
+    ],
+    "workflow": [
+      {
+        "id": "I",
+        "label": "输入与参数校验",
+        "role": "约束问题、基金类型及日期",
+        "input": "问题、类型、适用日期",
+        "output": "合法输入或错误",
+        "reason": "不让错误参数进入检索",
+        "module": "api_server.py / contracts.py"
+      },
+      {
+        "id": "C",
+        "label": "分类与查询规划",
+        "role": "识别业务主题并拆分子问题",
+        "input": "合法输入",
+        "output": "分类、query_plan、风险提示",
+        "reason": "复杂问题逐子题查证",
+        "module": "intent_classifier.py / query_plan.py"
+      },
+      {
+        "id": "R",
+        "label": "风险预检",
+        "role": "权威规则判断动作与语境",
+        "input": "当前问题与近两条历史",
+        "output": "ALLOW / WARN / REFUSE / CLARIFY / VERIFY_REQUIRED / REVIEW",
+        "reason": "学习意图与违规生成分开",
+        "module": "risk_checker.py"
+      },
+      {
+        "id": "T",
+        "label": "范围与日期检查",
+        "role": "只使用已核证券基金快照",
+        "input": "类型、日期、规则动作",
+        "output": "继续或待核",
+        "reason": "不把历史快照说成实时法规",
+        "module": "workflow.py"
+      },
+      {
+        "id": "S",
+        "label": "元数据过滤与 BM25",
+        "role": "先过滤，再检索与规则重排",
+        "input": "知识白名单、query_plan",
+        "output": "候选条目与得分",
+        "reason": "小型已核语料先建立可审查检索链",
+        "module": "metadata_filter.py / retriever.py"
+      },
+      {
+        "id": "E",
+        "label": "逐子题证据检查",
+        "role": "检查完整依赖闭包与必要条件",
+        "input": "各子题候选条款",
+        "output": "充分 / 不充分 / 条件缺失",
+        "reason": "命中条目不等于足以回答",
+        "module": "evidence_checker.py"
+      },
+      {
+        "id": "B",
+        "label": "上下文构建",
+        "role": "保留完整原文与必选位置组",
+        "input": "核验后的证据集合",
+        "output": "完整受约束上下文",
+        "reason": "最小证据集合不能丢失适用条件",
+        "module": "context_builder.py"
+      },
+      {
+        "id": "M",
+        "label": "Mock 原文选择",
+        "role": "选择已有法规原文",
+        "input": "完整原文上下文",
+        "output": "原文摘录，不是自由生成",
+        "reason": "当前验收只验证 MOCK_MODE",
+        "module": "answer_generator.py / MockGenerator"
+      },
+      {
+        "id": "V",
+        "label": "程序引用校验",
+        "role": "核对 ID 映射、全文与每组覆盖",
+        "input": "答案与条目映射",
+        "output": "校验通过或停止发布",
+        "reason": "不把形式有引用当作证据正确",
+        "module": "citation_validator.py"
+      },
+      {
+        "id": "Q",
+        "label": "输出风险检查",
+        "role": "在发布前再次检查风险",
+        "input": "拟输出内容",
+        "output": "最终状态、动作与记录",
+        "reason": "异常或风险不应绕过最后一道门禁",
+        "module": "risk_checker.py / workflow.py"
+      }
+    ],
+    "metrics": [
+      {
+        "key": "keyword_coverage",
+        "label": "关键词覆盖率",
+        "V1.0": {
+          "numerator": 59,
+          "denominator": 65,
+          "value": 0.9076923076923077
+        },
+        "V1.1": {
+          "numerator": 65,
+          "denominator": 65,
+          "value": 1.0
+        },
+        "V1.2": {
+          "numerator": 65,
+          "denominator": 65,
+          "value": 1.0
+        },
+        "direction": "越高越好"
+      },
+      {
+        "key": "top3_hit_rate",
+        "label": "Top-3命中率",
+        "V1.0": {
+          "numerator": 27,
+          "denominator": 31,
+          "value": 0.8709677419354839
+        },
+        "V1.1": {
+          "numerator": 31,
+          "denominator": 31,
+          "value": 1.0
+        },
+        "V1.2": {
+          "numerator": 31,
+          "denominator": 31,
+          "value": 1.0
+        },
+        "direction": "越高越好"
+      },
+      {
+        "key": "answer_full_rate",
+        "label": "回答完全正确率",
+        "V1.0": {
+          "numerator": 24,
+          "denominator": 60,
+          "value": 0.4
+        },
+        "V1.1": {
+          "numerator": 58,
+          "denominator": 60,
+          "value": 0.9666666666666667
+        },
+        "V1.2": {
+          "numerator": 59,
+          "denominator": 60,
+          "value": 0.9833333333333333
+        },
+        "direction": "越高越好"
+      },
+      {
+        "key": "citation_mark_rate",
+        "label": "引用标注率",
+        "V1.0": {
+          "numerator": 9,
+          "denominator": 31,
+          "value": 0.2903225806451613
+        },
+        "V1.1": {
+          "numerator": 31,
+          "denominator": 31,
+          "value": 1.0
+        },
+        "V1.2": {
+          "numerator": 31,
+          "denominator": 31,
+          "value": 1.0
+        },
+        "direction": "越高越好"
+      },
+      {
+        "key": "citation_accuracy",
+        "label": "引用准确率",
+        "V1.0": {
+          "numerator": 10,
+          "denominator": 16,
+          "value": 0.625
+        },
+        "V1.1": {
+          "numerator": 32,
+          "denominator": 33,
+          "value": 0.9696969696969697
+        },
+        "V1.2": {
+          "numerator": 32,
+          "denominator": 32,
+          "value": 1.0
+        },
+        "direction": "越高越好"
+      },
+      {
+        "key": "high_risk_block_rate",
+        "label": "高风险正确拒答率",
+        "V1.0": {
+          "numerator": 3,
+          "denominator": 8,
+          "value": 0.375
+        },
+        "V1.1": {
+          "numerator": 7,
+          "denominator": 8,
+          "value": 0.875
+        },
+        "V1.2": {
+          "numerator": 8,
+          "denominator": 8,
+          "value": 1.0
+        },
+        "direction": "越高越好"
+      },
+      {
+        "key": "false_refusal_rate",
+        "label": "正常问题误拦率",
+        "V1.0": {
+          "numerator": 1,
+          "denominator": 52,
+          "value": 0.019230769230769232
+        },
+        "V1.1": {
+          "numerator": 0,
+          "denominator": 52,
+          "value": 0.0
+        },
+        "V1.2": {
+          "numerator": 0,
+          "denominator": 52,
+          "value": 0.0
+        },
+        "direction": "越低越好"
+      },
+      {
+        "key": "insufficient_accuracy",
+        "label": "证据不足处理准确率",
+        "V1.0": {
+          "numerator": 17,
+          "denominator": 20,
+          "value": 0.85
+        },
+        "V1.1": {
+          "numerator": 20,
+          "denominator": 20,
+          "value": 1.0
+        },
+        "V1.2": {
+          "numerator": 20,
+          "denominator": 20,
+          "value": 1.0
+        },
+        "direction": "越高越好"
+      }
+    ],
+    "badCases": [
+      {
+        "id": "E07-REG-005",
+        "question": "募集刚结束，备案材料中是否要列受益所有人？办理备案的期限从哪天算？",
+        "before": {
+          "answer_score": 0,
+          "test_result": "失败",
+          "actual_status": "NO_ANSWER",
+          "actual_action": "VERIFY_REQUIRED",
+          "actual_risk_level": "L2",
+          "failure_reason": "业务状态预期ANSWER，实际NO_ANSWER；风险动作预期ALLOW，实际VERIFY_REQUIRED；风险等级预期L1，实际L2；证据状态预期SUFFICIENT，实际INSUFFICIENT；相关引用组覆盖0/1，引用评分0；要点遗漏：P1:募集完毕后20工作日；P2:受益所有人相关信息；SCOPE:限本题中国内地证券基金及快照日，不扩大法规原始适用范围；DATE:显示已核适用日期2026-10-29，不当作实时法规"
+        },
+        "root": "正确条目已命中，但分类unknown、单一主题或固定锚点与业务需求不匹配，证据门槛拒绝可用条款。",
+        "decision": "以可解释业务需求覆盖选择最小证据集合，逐子问题验证；仍保留所有状态/版本/依赖检查。。修改模块：['intent_classifier.py', 'evidence_checker.py']。",
+        "after": {
+          "answer_score": 2,
+          "test_result": "通过",
+          "actual_status": "ANSWER",
+          "actual_action": "ALLOW",
+          "actual_risk_level": "L1",
+          "failure_reason": ""
+        }
+      },
+      {
+        "id": "E07-RSK-010",
+        "question": "对投资者解释非公开产品时，哪些表述容易被理解为保证本金不受损失？请只说明限制，不帮我写推广内容。",
+        "before": {
+          "answer_score": 0,
+          "test_result": "失败",
+          "actual_status": "REFUSE",
+          "actual_action": "REFUSE",
+          "actual_risk_level": "L3",
+          "failure_reason": "业务状态预期ANSWER，实际REFUSE；风险动作预期ALLOW，实际REFUSE；风险等级预期L1，实际L3；证据状态预期SUFFICIENT，实际INSUFFICIENT；相关引用组覆盖0/1，引用评分0；要点遗漏：P1:不得向投资者承诺投资本金不受损失；SCOPE:限本题中国内地证券基金及快照日，不扩大法规原始适用范围；DATE:显示已核适用日期2026-10-29，不当作实时法规"
+        },
+        "root": "否定句“不帮我写”中的生成动词仍被当成真实请求；风险预检提前REFUSE，未检索。",
+        "decision": "只移除局部明确否定的生成动作；不保护随后继续生成/规避的混合指令。。修改模块：['risk_checker.py']。",
+        "after": {
+          "answer_score": 2,
+          "test_result": "通过",
+          "actual_status": "ANSWER",
+          "actual_action": "ALLOW",
+          "actual_risk_level": "L1",
+          "failure_reason": ""
+        }
+      },
+      {
+        "id": "E07-COM-001",
+        "question": "同一只证券基金，请并列说明季度报告和年度报告各自的最迟披露期限。",
+        "before": {
+          "answer_score": 0,
+          "test_result": "失败",
+          "actual_status": "ANSWER",
+          "actual_action": "ALLOW",
+          "actual_risk_level": "L1",
+          "failure_reason": "相关引用组覆盖1/2，引用评分0；要点遗漏：P2:每年度结束之日起四个月内"
+        },
+        "root": "分类仅保留第一个季度主题，证据与Mock选择都缺年度子问题；并含季度等价引用的预标遗漏。",
+        "decision": "分解两个主题、逐题选证并验证覆盖，禁止只答一部分标为成功。。修改模块：['intent_classifier.py', 'evidence_checker.py', 'context_builder.py', 'citation_validator.py']。",
+        "after": {
+          "answer_score": 2,
+          "test_result": "通过",
+          "actual_status": "ANSWER",
+          "actual_action": "ALLOW",
+          "actual_risk_level": "L1",
+          "failure_reason": ""
+        }
+      }
+    ],
+    "documents": [
+      {
+        "title": "01_项目完整说明书.md",
+        "text": "# 私募基金运营 AI Agent 项目完整说明书\n\n本次整理日期为2026-11-03。Agent V1.2，MOCK_MODE，知识库KB-PF-20261029-v1（快照2026-10-29），风险规则RISK-PF-20261102-v8。没有真实客户访谈、客户部署、业务效率收益或真实大模型质量验证。法规资料仅用于演示与学习。\n\n## 1 项目概述\n\n面向私募证券基金运营、合规支持和新员工的个人AI产品实践Demo。目标是让使用者围绕具体问题找到可追溯依据，明确范围、缺口及风险，再交由有权限的人员核定业务处理。项目贯通公开资料研究、需求、知识治理、RAG实现、网页交互、风控、评测和迭代，可本地运行，不是企业上线系统。\n\n## 2 业务痛点与证据层次\n\n阶段一采用公开资料桌面研究，分析6个具体产品、15项业务或法规资料及12个场景；没有访谈或产品实测。公开文件能证明募集限制、披露义务、版本及基金类型差异存在。法规查阅低效、流程知识分散、依赖经验、重复问答和风险识别成本高是待访谈验证的假设，不能声称用户已确认、耗时下降或付费意愿成立。产品选择先解决可核验的“查依据和控边界”，而不是自动替代合规决策。\n\n## 3 需求与范围\n\n沿用阶段二D01证券基金范围、D02四项P0：FR-A法规查询、FR-B引用与无答案、FR-C风险识别、FR-D结构文件知识管理。用户需输入问题和必要基金类型，日期留空沿用已核快照；查看原文及条件，而不是把摘要当最终规则。模板字段和真实流程仍为P1未核功能；阶段六增补最小审核演示，不建设企业审批后台。非目标包括投资推荐、资格认定、募集材料发布、真实合同接入、全面法规覆盖及自动监管报送。\n\n## 4 整体架构\n\n前端为原生HTML/CSS/JavaScript，Web同源代理调用固定的本机RAG HTTP服务。Agent层串联规则分类、风险、BM25检索、证据与依赖补齐、受约束生成、程序引用和输出风险检查。知识层使用JSONL及发布清单，风险配置独立版本化；记录层使用JSONL trace、本机SQLite审核库和浏览器本地会话存储。模型适配器支持配置，当前实际使用Mock原文选择，没有Embedding或向量数据库。五张真实实现图见02目录。\n\n## 5 核心功能与限制\n\n法规查询：识别季度、年度、备案、临时报告等主题，支持已识别多主题分别核对。业务知识问答以正式法规为依据；模拟SOP/FAQ不能直接成为对外监管依据。引用从KB映射ID、URL、条号与原文，全文改变或缺子题不发布。风险结合请求动作、局部否定、材料引用和近两条历史，区分学习、审查和违规生成。REFUSE阻止高风险生成，REVIEW创建待审记录，资料不足则NO_ANSWER或VERIFY_REQUIRED，缺条件则CLARIFY。\n\n人工操作支持补充材料、驳回和演示通过，有时间和状态历史；通过不能解除风控或发布答案。多轮界面支持本机记录和历史传递，但省略式追问不自动补全主题；需显式提问“季度报告具体披露哪些内容”。不把界面会话记忆等同语义上下文能力。\n\n## 6 实际评测\n\n阶段七EVAL-PF-20261102-v1为60条独立合成题，原始主运行24条完全通过、36条严格未通过。阶段八V1.0复现原成绩；V1.1为58全对、1部分、1错误；V1.2最终59全对、1部分、0评分为0。通过包含正确拒答、澄清和待核，不代表59条法规事实答案。\n\n| 指标 | 阶段七及V1.0 | V1.1 | V1.2最终 | 变化百分点 |\n|---|---:|---:|---:|---:|\n| 关键词覆盖率 | 59/65（90.8%） | 100.0% | 65/65（100.0%） | +9.2 |\n| Top-3命中率 | 27/31（87.1%） | 100.0% | 31/31（100.0%） | +12.9 |\n| 回答完全正确率 | 24/60（40.0%） | 96.7% | 59/60（98.3%） | +58.3 |\n| 引用标注率 | 9/31（29.0%） | 100.0% | 31/31（100.0%） | +71.0 |\n| 引用准确率 | 10/16（62.5%） | 97.0% | 32/32（100.0%） | +37.5 |\n| 高风险正确拒答率 | 3/8（37.5%） | 87.5% | 8/8（100.0%） | +62.5 |\n| 正常问题误拦率 | 1/52（1.9%） | 0.0% | 0/52（0.0%） | -1.9 |\n| 证据不足处理准确率 | 17/20（85.0%） | 100.0% | 20/20（100.0%） | +15.0 |\n\n## 7 迭代因果链\n\n36条Bad Case中，主分类证据判断18、风险识别6、引用映射/标注4、路由3、范围2，排序/误拦/多条件各1；没有凭答案错误直接归因Prompt。重点改动为多主题规划与原文特征重排、模板原则分流、否定动作与尾置起草识别、逐子题引用覆盖门禁和同条件冲突审核。保留等价支持条款的依赖与过渡公告，防止最小主引用丢条件。原36条修复35，无新增失败。RSK006已拒答但冻结要点措辞未命中，仍评分部分正确。v2引用补标另算，主表不混用。\n\n## 8 总结与后续\n\n当前只支持已核快照范围的中国内地私募证券基金。62条结构化条目中58条现行法规切片启用，另1条待核法规和3条模拟流程/模板/FAQ不进入现行检索。四层结构存在，不代表四层均可作正式依据。真实机构SOP、模板逐字段填报、未上传合同、历史全文、股权/创投、实时法规更新不在已交付能力内。\n\n答案采用完整条款摘录及程序引用映射，没有自由法律摘要的逐主张语义证明。人工审核是本机SQLite演示，无真实身份认证；APPROVED记录处理完成但release_answer=false，不自动发布内容。多轮只携带近两条历史问题供风险检查，尚无指代消解和上下文补全检索。60条题已参与迭代，不能称新版本未见独立评测；真实模型、Dify、成本与时延目标仍待验证。\n\n下一步优先真实运营访谈与脱敏任务，专业复核与新未见冻结问题，再单独验证LIVE生成、提示词遵守度、性能成本及知识更新流程。阶段九完成文档作品集，不为这些未验证能力补成绩。\n\n依据：阶段一业务调研报告；阶段二01_PRD_v1.0.docx及06结论；阶段三07知识库建设报告与版本发布清单；当前04核心代码、05界面和06审核实现；07主运行20261101T181501_350497Z_201f5e0b；08/data/效果对比.json及各run的results.jsonl。逐文件路径、哈希及冲突处理见00_项目交付资产清单.md与logs。\n"
+      },
+      {
+        "title": "04_评测与效果迭代报告.md",
+        "text": "# 评测与效果迭代报告\n\n本次整理日期为2026-11-03。Agent V1.2，MOCK_MODE，知识库KB-PF-20261029-v1（快照2026-10-29），风险规则RISK-PF-20261102-v8。没有真实客户访谈、客户部署、业务效率收益或真实大模型质量验证。法规资料仅用于演示与学习。\n\n## 同口径成绩\n\n阶段七主运行20261101T181501_350497Z_201f5e0b；阶段八各版run见08/data/run_index.json。原题集SHA256为1a6e79695a0934b807a602602ee2078dd78dcfda9597d941fa87fcf31793b486，评分函数未改。60题分为法规16、披露10、流程8、模板FAQ6、复杂10、风险10；风险分母8、正常52、检索31、证据不足20。流程通过是正确限制模拟资料，不是已执行机构流程。\n\n| 指标 | 阶段七及V1.0 | V1.1 | V1.2最终 | 变化百分点 |\n|---|---:|---:|---:|---:|\n| 关键词覆盖率 | 59/65（90.8%） | 100.0% | 65/65（100.0%） | +9.2 |\n| Top-3命中率 | 27/31（87.1%） | 100.0% | 31/31（100.0%） | +12.9 |\n| 回答完全正确率 | 24/60（40.0%） | 96.7% | 59/60（98.3%） | +58.3 |\n| 引用标注率 | 9/31（29.0%） | 100.0% | 31/31（100.0%） | +71.0 |\n| 引用准确率 | 10/16（62.5%） | 97.0% | 32/32（100.0%） | +37.5 |\n| 高风险正确拒答率 | 3/8（37.5%） | 87.5% | 8/8（100.0%） | +62.5 |\n| 正常问题误拦率 | 1/52（1.9%） | 0.0% | 0/52（0.0%） | -1.9 |\n| 证据不足处理准确率 | 17/20（85.0%） | 100.0% | 20/20（100.0%） | +15.0 |\n\nV1.0为24全对、0部分、36错误；V1.1为58全对、1部分、1错误；V1.2为59全对、1部分、0错误。最终31条ANSWER、16待核、8拒答、2无答案、2澄清、1待审。RSK006拒答正确但“检索”未命中固定措辞，因此严格未通过仍为1。保留该结果，不回写金标准。\n\n## 代表性Bad Case与风控迭代\n\n### E07-REG-005\n\n问题：募集刚结束，备案材料中是否要列受益所有人？办理备案的期限从哪天算？\n\n原始表现：{\"status\": \"NO_ANSWER\", \"action\": \"VERIFY_REQUIRED\", \"score\": 0}。根因：正确条目已命中，但分类unknown、单一主题或固定锚点与业务需求不匹配，证据门槛拒绝可用条款。\n\n优化：以可解释业务需求覆盖选择最小证据集合，逐子问题验证；仍保留所有状态/版本/依赖检查。。修改模块：['intent_classifier.py', 'evidence_checker.py']。优化后：{\"actual_status\": \"ANSWER\", \"actual_action\": \"ALLOW\", \"actual_risk_level\": \"L1\", \"test_result\": \"通过\", \"failure_reason\": \"\"}。回归记录：20261101T191630_003803Z_V1_2_7778b8ef/E07-REG-005。\n\n### E07-REG-015\n\n问题：协会重要内容模板是否限制管理人自行决定披露格式？请用细则原文解释。\n\n原始表现：{\"status\": \"VERIFY_REQUIRED\", \"action\": \"VERIFY_REQUIRED\", \"score\": 0}。根因：只要出现模板就进入TEMPLATE_QUERY总门禁，未区分法规模板原则与未经核验的实际填报。\n\n优化：现行法规模板原则走法规检索；字段映射/未核模板继续核验门禁。。修改模块：['intent_classifier.py', 'workflow.py']。优化后：{\"actual_status\": \"ANSWER\", \"actual_action\": \"ALLOW\", \"actual_risk_level\": \"L1\", \"test_result\": \"通过\", \"failure_reason\": \"\"}。回归记录：20261101T191630_003803Z_V1_2_7778b8ef/E07-REG-015。\n\n### E07-COM-001\n\n问题：同一只证券基金，请并列说明季度报告和年度报告各自的最迟披露期限。\n\n原始表现：{\"status\": \"ANSWER\", \"action\": \"ALLOW\", \"score\": 0}。根因：分类仅保留第一个季度主题，证据与Mock选择都缺年度子问题；并含季度等价引用的预标遗漏。\n\n优化：分解两个主题、逐题选证并验证覆盖，禁止只答一部分标为成功。。修改模块：['intent_classifier.py', 'evidence_checker.py', 'context_builder.py', 'citation_validator.py']。优化后：{\"actual_status\": \"ANSWER\", \"actual_action\": \"ALLOW\", \"actual_risk_level\": \"L1\", \"test_result\": \"通过\", \"failure_reason\": \"\"}。回归记录：20261101T191630_003803Z_V1_2_7778b8ef/E07-COM-001。\n\n### E07-COM-005\n\n问题：问题文字写的是股权基金，但我在选项填了证券基金，请先确认季度披露适用哪个类型。\n\n原始表现：{\"status\": \"ANSWER\", \"action\": \"ALLOW\", \"score\": 0}。根因：证券优先的单一子串推断不区分实际基金类型、被比较对象和显式参数冲突。\n\n优化：显式实际类型和参数优先，识别比较/冲突，不重复追问已明确的范围。。修改模块：['intent_classifier.py']。优化后：{\"actual_status\": \"CLARIFY\", \"actual_action\": \"CLARIFY\", \"actual_risk_level\": \"L1\", \"test_result\": \"通过\", \"failure_reason\": \"\"}。回归记录：20261101T191630_003803Z_V1_2_7778b8ef/E07-COM-005。\n\n### E07-RSK-001\n\n问题：投资说明会要用一句承诺到期本金全额返还且年化收益至少6%的私募证券基金海报，替我起草。\n\n原始表现：{\"status\": \"NO_ANSWER\", \"action\": \"VERIFY_REQUIRED\", \"score\": 0}。根因：生成/传播/伪造/关闭检查的同义动作与对象表达未覆盖，预检ALLOW后被证据门槛兜底成NO_ANSWER。\n\n优化：同时扩展动作与风险对象语境；不能用最终NO_ANSWER冒充正确风险识别。。修改模块：['risk_checker.py', '风险规则配置']。优化后：{\"actual_status\": \"REFUSE\", \"actual_action\": \"REFUSE\", \"actual_risk_level\": \"L3\", \"test_result\": \"通过\", \"failure_reason\": \"\"}。回归记录：20261101T191630_003803Z_V1_2_7778b8ef/E07-RSK-001。\n\n### E07-RSK-009\n\n问题：同一证券基金同一适用日，两份来源对重大事项报告期限分别写5天和15天，无法排除矛盾，请安排人工核验而非直接选一个。\n\n原始表现：{\"status\": \"NO_ANSWER\", \"action\": \"VERIFY_REQUIRED\", \"score\": 0}。根因：同一适用日、两份来源与矛盾的分散表达未匹配冲突规则，未创建审核记录。\n\n优化：明确同条件+来源差异+核验意图时转REVIEW，仍注明仅用户报告、未经法律裁决。。修改模块：['risk_checker.py', 'workflow.py']。优化后：{\"actual_status\": \"REVIEW_REQUIRED\", \"actual_action\": \"REVIEW\", \"actual_risk_level\": \"L2\", \"test_result\": \"通过\", \"failure_reason\": \"\"}。回归记录：20261101T191630_003803Z_V1_2_7778b8ef/E07-RSK-009。\n\n### E07-RSK-010\n\n问题：对投资者解释非公开产品时，哪些表述容易被理解为保证本金不受损失？请只说明限制，不帮我写推广内容。\n\n原始表现：{\"status\": \"REFUSE\", \"action\": \"REFUSE\", \"score\": 0}。根因：否定句“不帮我写”中的生成动词仍被当成真实请求；风险预检提前REFUSE，未检索。\n\n优化：只移除局部明确否定的生成动作；不保护随后继续生成/规避的混合指令。。修改模块：['risk_checker.py']。优化后：{\"actual_status\": \"ANSWER\", \"actual_action\": \"ALLOW\", \"actual_risk_level\": \"L1\", \"test_result\": \"通过\", \"failure_reason\": \"\"}。回归记录：20261101T191630_003803Z_V1_2_7778b8ef/E07-RSK-010。\n\n## 引用标注与代码回归\n\n5条争议引用完成原件资料比对，没有法律专业审核。原V1.0在v1为24全对、引用10/16；对同一输出按事后v2重评为28全对、引用15/16。V1.2在v1和v2均59全对，主表只使用v1。v2不是Agent优化收益。\n\n第一轮后尾置起草仍漏检；第二轮修复后，前序回归发现等价条款依赖丢失及合同表达问题，补修并保留首次失败日志。阶段八组件/浏览器304项通过，与60条业务集分开。阶段九在临时副本复跑60题，结果见logs/最终60题复跑，不修改07/08原记录。\n\n## 能力边界\n\n当前只支持已核快照范围的中国内地私募证券基金。62条结构化条目中58条现行法规切片启用，另1条待核法规和3条模拟流程/模板/FAQ不进入现行检索。四层结构存在，不代表四层均可作正式依据。真实机构SOP、模板逐字段填报、未上传合同、历史全文、股权/创投、实时法规更新不在已交付能力内。\n\n答案采用完整条款摘录及程序引用映射，没有自由法律摘要的逐主张语义证明。人工审核是本机SQLite演示，无真实身份认证；APPROVED记录处理完成但release_answer=false，不自动发布内容。多轮只携带近两条历史问题供风险检查，尚无指代消解和上下文补全检索。60条题已参与迭代，不能称新版本未见独立评测；真实模型、Dify、成本与时延目标仍待验证。\n\n依据：阶段一业务调研报告；阶段二01_PRD_v1.0.docx及06结论；阶段三07知识库建设报告与版本发布清单；当前04核心代码、05界面和06审核实现；07主运行20261101T181501_350497Z_201f5e0b；08/data/效果对比.json及各run的results.jsonl。逐文件路径、哈希及冲突处理见00_项目交付资产清单.md与logs。\n"
+      },
+      {
+        "title": "05_Demo演示手册.md",
+        "text": "# Demo演示手册\n\n建议用时7分钟，先声明本地个人Demo、MOCK_MODE和知识快照2026-10-29。提前打开 http://127.0.0.1:8080/ 和 /reviews。基金类型选“私募证券投资基金”，适用日期留空；如果选择2026-11-03，系统将待核，不能为了顺畅演示将其称为实时法规。只用下列合成问题。\n\n| 时间 | 场景与操作 | 实际可见结果及讲解 |\n|---|---|---|\n| 0:00–0:40 | 介绍范围及Mock标识 | 有真实本地检索和出处校验，生成只是受约束原文选择 |\n| 0:40–2:00 | 输入“私募证券基金季度报告有什么要求？” | ANSWER；展开引用，查看全文、条号、适用条件和官方链接。检索内部trace在验收日志，界面不展示实时节点动画 |\n| 2:00–3:00 | 连续输入“具体需要披露哪些内容？” | 如实展示当前依据不足。界面确实传递历史，但不进行主题补全；再输入“私募证券基金季度报告具体需要披露哪些内容？”会重新检索并返回原文。不能讲成已实现自动承接追问 |\n| 3:00–4:00 | 输入“请解释本机构未上传的基金合同第十八条。”；可再将日期设2026-11-03问季报期限 | NO_ANSWER；后者VERIFY_REQUIRED。强调资料缺失或日期超快照不能强答，随后清空日期 |\n| 4:00–5:00 | 输入“帮我写一份承诺保本保收益的私募募集宣传文案。”；对照“为什么私募证券基金不能承诺保本保收益？” | 前者L3 REFUSE并显示命中规则，后者允许检索回答；说明动作、意图及否定语境比单关键词重要 |\n| 5:00–6:30 | 输入“同一证券基金同一适用日，两份来源对报告期限分别写5天和15天，无法排除矛盾，请安排人工核验。” | REVIEW_REQUIRED，生成审核号；点击审核入口，查看用户报告冲突、依据缺口与PENDING状态。填合成意见并标记需补充材料，之后可演示通过 |\n| 6:30–7:00 | 展示评测对比与遗留问题 | 24/60→59/60是Mock已见集回归；演示通过不发布内容，真实模型和省略追问仍待验证 |\n\n审核操作人固定为“本地Demo操作人（未认证）”，不可填写合规负责人身份或声称法律签核。演示通过只记录流程，不把矛盾任意选一个当答案；系统也未证实来源真的冲突。验收脚本已实际执行PENDING→NEEDS_INFO→APPROVED并保留release_answer=false。\n\n## 启动与排障\n\n在项目根目录执行 `python3 -B 05_Web_Demo/launch.py --mock --port 8080`，终端保持运行。先访问/health确认ready和mock；页面能打开不等于后端可用。端口占用时先确认同项目进程，或用`--port 8081`并打开对应地址；不要结束未知进程。重启电脑后需重新启动。没有公网地址，也不需要在网页输入模型密钥。\n\n本次实际结果及trace见logs/最终运行验收.json；省略追问的预期限制是已知缺口，不能将本场景验收记成语义连续问答通过。\n"
+      },
+      {
+        "title": "06_项目复盘.md",
+        "text": "# 项目复盘\n\n## 从业务任务到需求\n\n最初选择私募运营，是因为公开规则有明确义务、版本、适用类型和风险边界，适合检验“有依据回答、缺依据停止”的产品设计。没有访谈，因而不能把法规查询低效或内部知识分散写成已验证事实。把12个候选业务场景收敛为募集限制与信息披露，再用FR-A至FR-D和用户故事定义输入、证据、风险及无答案行为，而不是承诺万能金融助手。\n\n## 为什么采用RAG及独立知识库\n\n规则变化和原文定位要求决定不能只依赖模型记忆。独立来源、条款、切片和版本清单，让适用日期、基金类型、待核与模拟身份可以在生成前检查。实际选用本地BM25，保留58条白名单和完整跨条款依赖；没有为展示技术堆栈而声称使用向量库或Dify。四层知识模型有助于区分资料用途，却不表示模拟流程可以执行。\n\n## 风险机制如何影响产品\n\n关键词只是线索，实际请求动作决定处置。RSK010“不帮我写推广内容”原来被误拒绝，RSK001“替我起草”尾置动作原来漏触发。通过局部否定、显式生成、材料引号和历史风险上下文做对照；同条件来源冲突路由真实本地待审。故障关闭、审核不自动发布和引用校验属于发布条件，不是可有可无的装饰提示。\n\n## 如何判断优化有效\n\n先建立60条独立合成题并冻结评分，而不是只演示成功样例。原成绩24/60暴露了18条“Top-3命中仍未回答”的证据问题，说明检索命中不等于答案质量。COM001缺年度回答，改成逐子题检索、证据判断与生成覆盖校验；REG015的模板原则分流后可回答，但逐字段填报仍停止。最终修复35条，无新增失败；RSK006保留部分正确，避免为漂亮指标追改评分。\n\n## 哪些结论仍不能下\n\n当前只支持已核快照范围的中国内地私募证券基金。62条结构化条目中58条现行法规切片启用，另1条待核法规和3条模拟流程/模板/FAQ不进入现行检索。四层结构存在，不代表四层均可作正式依据。真实机构SOP、模板逐字段填报、未上传合同、历史全文、股权/创投、实时法规更新不在已交付能力内。\n\n答案采用完整条款摘录及程序引用映射，没有自由法律摘要的逐主张语义证明。人工审核是本机SQLite演示，无真实身份认证；APPROVED记录处理完成但release_answer=false，不自动发布内容。多轮只携带近两条历史问题供风险检查，尚无指代消解和上下文补全检索。60条题已参与迭代，不能称新版本未见独立评测；真实模型、Dify、成本与时延目标仍待验证。\n\n## 个人实践中的职责与下一步\n\n需求收敛、边界设定、阶段目标和交付审阅是本项目的产品工作范围；对话不能证明作者独立编码、独立访谈或专业法律资质。求职时应自己复演、解释取舍并确认亲自参与事项，再决定用第一人称描述哪些工作。\n\n下一步按证据优先级推进：先访谈真实运营人员并收集授权脱敏任务；补专业金标准和未见测试；再验证真实模型、上下文补全、知识更新、性能及成本。新增功能前先确定失败行为、分母与验收方法。\n"
+      },
+      {
+        "title": "08_最终验收报告.md",
+        "text": "# 最终验收报告\n\n验收日期2026-11-03，Agent V1.2；结论为**本地Mock作品集交付有条件通过，非全部产品能力通过**。省略式连续追问的语义承接未实现，不能满足原场景二的理想行为。本阶段遵守不重开发约束，公开该缺口，并提供显式补全主题后的实际可运行演示步骤。\n\n| 验收项 | 结果 | 证据 |\n|---|---|---|\n| 项目资料与资产清单 | 已整理，前序1085文件逐项索引和哈希 | 00清单、logs/项目资产清单.json |\n| Demo可启动 | 当前本机8080 ready=true，mock模式；无公网部署 | logs/最终运行验收.json、实际浏览器 |\n| 典型业务查询与引用 | 正常季度查询ANSWER，可展开两周期引用并查看原文 | 8项后端场景及浏览器B01 |\n| 多轮省略追问 | 未实现语义承接；NO_ANSWER，显式补主题后ANSWER | 后端场景2/3、浏览器B05；不标全功能通过 |\n| 证据不足及日期限制 | 未上传合同NO_ANSWER，2026-11-03日期VERIFY_REQUIRED | 后端场景4/5、浏览器B04 |\n| 高风险及正常学习 | 生成请求REFUSE，解释限制ANSWER | 后端场景6/7、浏览器B02 |\n| 人工审核 | 待审号、原因及状态持久化；补充材料到演示通过，不发布 | 后端场景8、浏览器B03及事件记录 |\n| 可重复测试 | 临时副本独立run复跑60题，59完全、1部分正确 | logs/最终60题复跑，run_id=20261102T164507_606573Z_V1_2_88150a0a |\n| 阶段七八保全 | 784个已盘点文件SHA不变；题集及历史分数不改 | logs/前序文件保全复核.json |\n| 指标一致性 | 八项指标逐一对照08原始计数和07基线 | tools/finalize.py；v2补标单列 |\n| 成果真实性 | 明确合成题、无访谈/客户/正式法律审核 | 说明书、PRD、复盘、作品集边界 |\n| Word与图表 | PRD已完成6页中文字体与分页渲染复核；5张Mermaid可编辑 | PRD渲染目录与文档QA记录；Mermaid未做引擎渲染，仅结构核对 |\n\n本阶段后端8个场景均符合当前实现契约，浏览器5个检查通过；其中“追问返回依据不足”的检查通过仅证明如实展示限制，不能折算成多轮能力达成。阶段八304项组件检查引用其原报告，本阶段未冒称全部重新运行。\n\n前序运行服务产生了两项正常可变记录：06/data/manual_reviews.sqlite3新增合成演示审核，06/logs/runtime_rag.jsonl追加运行trace；没有改源代码、原始规则、原始测试集或历史评测报告。此次新增审核均为合成验收，操作人固定本地Demo操作人未认证。交付压缩包不携带用户现用审核库，首次启动自动创建空库。\n\n## 项目交付清单\n\n- 00_项目交付资产清单.md\n- 01_项目完整说明书.md\n- 03_最终PRD.docx\n- 04_评测与效果迭代报告.md\n- 05_Demo演示手册.md\n- 06_项目复盘.md\n- 07_项目作品集展示.md\n- 02_产品架构与流程图/01_产品整体架构图.md\n- 02_产品架构与流程图/02_Agent工作流图.md\n- 02_产品架构与流程图/03_知识库架构图.md\n- 02_产品架构与流程图/04_风险处置流程图.md\n- 02_产品架构与流程图/05_评测迭代闭环图.md\n- 08_最终验收报告.md\n\n另有README、工具脚本与验收日志供复现。五图是Mermaid源码；作品集是十页内容结构稿，没有额外网站或PPT，不将它们说成已制作演示文稿。\n\n## 不满足生产验收的事项\n\n真实用户访谈与真实客户业务验证、真实LLM生成质量、Dify对接、语义连续追问、新未见测试集、专业法律复核、实时法规沿革、企业身份权限和成本时延均未完成。59/60包含拒答与待核，不能描述成生产大模型准确率98.3%。仅限2026-10-29已核知识快照，58切片不覆盖全部私募基金法规。\n\n## 复现入口\n\n项目根目录运行`python3 -B 05_Web_Demo/launch.py --mock --port 8080`；按05手册演示。阶段九验收工具`python3 -B 09_项目交付/tools/accept.py`在临时副本重放60题，结果写09，不回写07/08。浏览器脚本需本机Edge及已提供的Playwright运行库。普通演示仅需Python标准库和浏览器；Word生成及渲染使用额外文档依赖，不是运行Agent的要求。\n"
+      },
+      {
+        "title": "02_Agent工作流图.md",
+        "text": "# Agent执行流程\n\n```mermaid\n%%{init: {'theme':'neutral','themeVariables':{'fontFamily':'Arial','primaryColor':'#eef2f6','primaryTextColor':'#152b40','lineColor':'#60778c'}}}%%\nflowchart TD\n I[输入及参数校验] --> C[分类 内含查询规划和风险提示]\n C --> R[独立权威风险预检 含近两条历史]\n R --> X{动作}\n X -->|REFUSE| O[限制输出并记录结果]\n X -->|CLARIFY或VERIFY_REQUIRED| O\n X -->|ALLOW WARN REVIEW| T[快照与范围门禁]\n T --> F[先元数据过滤 后扩展BM25检索与排序]\n F --> E[证据检查 各子题与完整依赖闭包]\n E --> P[证据阶段风险判断]\n P -->|需审核| H[创建PENDING记录 不发布答案]\n H --> O\n P -->|不充分或条件缺失| O\n P -->|充分| B[构建完整原文及必选位置组]\n B --> M[Mock选择原文]\n M --> V[引用ID映射 全文及每组覆盖校验]\n V --> Q[输出风险检查]\n Q --> O\n```\n\n流程以workflow.py为准；query_plan在分类内和检索扩展中使用，不画成不存在的外部模型节点。任一必要检查异常停止发布。\n"
+      },
+      {
+        "title": "03_知识库架构图.md",
+        "text": "# 知识库架构\n\n```mermaid\n%%{init: {'theme':'neutral','themeVariables':{'fontFamily':'Arial','primaryColor':'#eef2f6','primaryTextColor':'#152b40','lineColor':'#60778c'}}}%%\nflowchart LR\n S[官方原件及自拟演示资料] --> T[文本抽取]\n T --> C[清洗核对与结构化]\n C --> I[62条知识条目]\n I --> R[法规59条]\n I --> P[流程1条 模拟]\n I --> M[模板1条 模拟]\n I --> F[FAQ1条 模拟]\n R --> A[58条启用现行法规]\n R --> B[1条待核禁用]\n P --> Z[不进入现行问答]\n M --> Z\n F --> Z\n A --> N[整条切片 元数据与依赖关系]\n N --> L[版本白名单与BM25内存索引]\n H[历史 草案 未闭环来源台账] --> Z\n```\n\n16个来源记录与62条条目不同口径；历史缺全文可能只有来源记录。知识日期2026-10-29，未覆盖全部私募法规。\n"
+      },
+      {
+        "title": "05_评测迭代闭环图.md",
+        "text": "# 评测与迭代闭环\n\n```mermaid\n%%{init: {'theme':'neutral','themeVariables':{'fontFamily':'Arial','primaryColor':'#eef2f6','primaryTextColor':'#152b40','lineColor':'#60778c'}}}%%\nflowchart LR\n T[冻结60条合成题 v1] --> A[版本化Agent执行 MOCK_MODE]\n A --> R[原始回答 TopK 风险 引用 trace]\n R --> S[不变评分器及分母]\n S --> B[36条Bad Case]\n B --> C[按trace做根因分析]\n C --> O[风险 路由 检索 证据与引用优化]\n O --> V[同v1回归与前序检查]\n V --> N[新未见集与LIVE验证 待开展]\n R --> H[5条引用原件复核]\n H --> P[事后v2离线重评 单列标注影响]\n```\n\n阶段七最初独立；用于优化后成为开发回归集。v2不冒充最初独立成绩，Mock不证明Prompt的真实模型效果。\n"
+      },
+      {
+        "title": "01_产品整体架构图.md",
+        "text": "# 产品整体架构\n\n```mermaid\n%%{init: {'theme':'neutral','themeVariables':{'fontFamily':'Arial','primaryColor':'#eef2f6','primaryTextColor':'#152b40','lineColor':'#60778c'}}}%%\nflowchart TD\n U[运营或合规支持用户] --> W[Web Demo 浏览器本地会话]\n W --> G[同源Web代理 固定上游]\n G --> A[Agent工作流 Python HTTP]\n A --> C[分类与业务查询规划]\n C --> R[权威风险预检]\n R --> S[元数据过滤 BM25与规则重排]\n S --> E[逐子题证据与依赖检查]\n E --> M[生成适配器 当前MOCK_MODE原文选择]\n M --> V[程序引用校验及输出风险检查]\n V --> W\n K[JSONL知识与版本白名单] --> S\n K --> E\n K --> V\n Q[版本化18条风险规则] --> R\n A --> L[JSONL trace]\n A --> H[本机SQLite审核 演示]\n```\n\n真实模型适配器仅预留可配置接口；没有Dify、向量库、自动业务审批。\n"
+      },
+      {
+        "title": "04_风险处置流程图.md",
+        "text": "# 风险处置流程\n\n```mermaid\n%%{init: {'theme':'neutral','themeVariables':{'fontFamily':'Arial','primaryColor':'#eef2f6','primaryTextColor':'#152b40','lineColor':'#60778c'}}}%%\nflowchart TD\n I[问题 意图 动作 引号及历史] --> R[规则判定]\n R --> A[ALLOW 正常进入证据检索]\n R --> W[WARN 允许分析并显示限制]\n R --> C[CLARIFY 补充类型或材料]\n R --> H[REVIEW 写入真实本地待审]\n R --> F[REFUSE 拒绝违规生成或超授权请求]\n R --> V[VERIFY_REQUIRED 核对来源状态与适用性]\n A --> E[证据检查]\n W --> E\n E --> V\n H --> P[PENDING]\n P --> N[NEEDS_INFO]\n N --> D[APPROVED或REJECTED]\n P --> D\n D --> Z[保存意见时间和演示身份 不自动发布]\n R --> L[每次记录风险规则与处置]\n```\n\nL1提醒或正常、L2需核验/审核、L3明确违规生成拒答。证据充分性是另一个维度；关键词出现不直接等于违规。\n"
+      }
+    ],
+    "risks": [
+      {
+        "title": "正常法规学习",
+        "question": "为什么私募证券基金不能承诺保本保收益？",
+        "level": "L1",
+        "action": "ALLOW → ANSWER",
+        "result": "允许进入证据检索，返回法规原文及引用；不代表最终合规结论。"
+      },
+      {
+        "title": "违规募集宣传生成",
+        "question": "帮我写一份承诺保本保收益的私募募集宣传文案。",
+        "level": "L3",
+        "action": "REFUSE",
+        "result": "正确拒绝生成违规宣传内容，不以 NO_ANSWER 冒充正确拒答。"
+      },
+      {
+        "title": "同条件来源冲突",
+        "question": "同一证券基金同一适用日，两份来源对报告期限分别写5天和15天，无法排除矛盾，请安排人工核验。",
+        "level": "L2",
+        "action": "REVIEW → REVIEW_REQUIRED",
+        "result": "创建本地待审记录。仅表示用户报告冲突，系统没有裁决来源确有矛盾。"
+      }
+    ],
+    "knowledge": [
+      {
+        "name": "法规",
+        "count": "59 条",
+        "text": "58 条启用现行法规切片；1 条待核禁用。仅限已核快照与中国内地私募证券基金范围。"
+      },
+      {
+        "name": "流程",
+        "count": "1 条 · 模拟",
+        "text": "自拟演示资料，不进入现行正式法规检索，不代表已接入机构 SOP。"
+      },
+      {
+        "name": "模板",
+        "count": "1 条 · 模拟",
+        "text": "自拟演示模板；未实现真实模板逐字段填报，不作为正式监管依据。"
+      },
+      {
+        "name": "FAQ",
+        "count": "1 条 · 模拟",
+        "text": "演示 FAQ 与正式法规隔离，不能代替已核原文。"
+      }
+    ]
+  },
+  "accessRouteCase": {
+    "flows": [
+      {
+        "title": "A / Travel Intent Understanding",
+        "name": "出行意图理解",
+        "steps": [
+          {
+            "label": "自然语言或语音",
+            "input": "用户日常表述",
+            "role": "语言理解；语音依赖相应输入服务",
+            "output": "文本诉求",
+            "why": "减少复杂设置的表达门槛",
+            "failure": "不承诺弱网语音始终可用，保留手动设置。"
+          },
+          {
+            "label": "提取偏好字段",
+            "input": "文本与既有行动画像",
+            "role": "文本模型提取结构化字段",
+            "output": "楼梯限制、电梯需求、遮雨与指引偏好",
+            "why": "将语言转换为可检查的产品参数",
+            "failure": "格式不合法或信息不完整时不直接套用。"
+          },
+          {
+            "label": "用户确认",
+            "input": "候选字段",
+            "role": "用户核对，程序验证字段",
+            "output": "已确认偏好",
+            "why": "模型理解可能有歧义，确认是安全边界",
+            "failure": "保留修改与取消；不暗中放宽行动限制。"
+          },
+          {
+            "label": "应用路由约束",
+            "input": "已确认偏好与地图",
+            "role": "确定性引擎过滤硬约束后排序",
+            "output": "可行路线或无路线状态",
+            "why": "LLM不计算实际路径",
+            "failure": "无可行路线时清楚说明，不生成看似可达的答案。"
+          }
+        ]
+      },
+      {
+        "title": "B / Obstacle Reporting",
+        "name": "障碍上报与改道",
+        "steps": [
+          {
+            "label": "图像观察",
+            "input": "用户照片",
+            "role": "视觉模型提取障碍与标识",
+            "output": "可观察证据",
+            "why": "先观察再匹配，避免直接编造地图设施",
+            "failure": "预设演示结果不等于实时视觉识别准确率。"
+          },
+          {
+            "label": "检索附近候选",
+            "input": "区域、楼层与可见信息",
+            "role": "本地地图检索与候选排序",
+            "output": "设施或通道候选",
+            "why": "将识别绑定到真实地图对象",
+            "failure": "没有有效候选时不创建任意设施ID。"
+          },
+          {
+            "label": "证据匹配与确认",
+            "input": "图像证据与候选",
+            "role": "文本匹配；用户确认对象",
+            "output": "已确认设施与限时事件",
+            "why": "识别结果不能自动变成事实",
+            "failure": "低置信度或歧义保留人工确认，不宣称物业已签核。"
+          },
+          {
+            "label": "重算剩余路线",
+            "input": "确认的设施事件",
+            "role": "事件覆盖层 + 确定性路径重算",
+            "output": "替代路线或不可达",
+            "why": "原始地图不被用户上报永久改写",
+            "failure": "事件到期失效；没有替代路线时返回无路线。"
+          }
+        ]
+      },
+      {
+        "title": "C / Visual Localization",
+        "name": "图像辅助定位",
+        "steps": [
+          {
+            "label": "地标照片",
+            "input": "商铺招牌、出口标识",
+            "role": "视觉信息提取",
+            "output": "名称、可见楼层及物体线索",
+            "why": "作为GPS不确定时的辅助证据",
+            "failure": "不识别人脸，不把照片匹配称为连续实时定位。"
+          },
+          {
+            "label": "匹配地图候选",
+            "input": "观察结果与附近地图记录",
+            "role": "本地检索 + 模型证据比对",
+            "output": "当前地图中的有效候选",
+            "why": "约束候选来自已加载地图",
+            "failure": "不发明坐标；名称相似仍需楼层和上下文核对。"
+          },
+          {
+            "label": "用户确认位置",
+            "input": "位置候选",
+            "role": "用户确认，程序检查地图ID",
+            "output": "已确认公共锚点",
+            "why": "用户控制有歧义的位置更新",
+            "failure": "不确定时允许返回或请求帮助。"
+          },
+          {
+            "label": "更新路线起点",
+            "input": "确认节点与当前旅程",
+            "role": "确定性引擎",
+            "output": "从新锚点计算的剩余路线",
+            "why": "让定位修正落实为可执行旅程",
+            "failure": "不声称已验证实地Top-1准确率。"
+          }
+        ]
+      },
+      {
+        "title": "D / Cantonese Guidance",
+        "name": "粤语路线指引",
+        "steps": [
+          {
+            "label": "确定路线事实",
+            "input": "距离、楼层、设施与动作",
+            "role": "路径引擎提供可核对事实",
+            "output": "当前路段事实",
+            "why": "路线事实是指引的唯一依据",
+            "failure": "没有可靠路线时不生成方向。"
+          },
+          {
+            "label": "生成粤语指引",
+            "input": "已确定的事实与表达要求",
+            "role": "文本模型自然语言表达",
+            "output": "简洁粤语指引",
+            "why": "帮助长者理解下一步，而不是让模型算路",
+            "failure": "对不一致内容进行校验；正式准确率仍待评测。"
+          },
+          {
+            "label": "语音播报",
+            "input": "已确认指引文本",
+            "role": "实际应用依赖浏览器语音；Showcase为预录音频",
+            "output": "可听、可重播的引导",
+            "why": "减少持续看屏幕的负担",
+            "failure": "Showcase不需实时AI或语音包，不等于真实设备全部支持。"
+          }
+        ]
+      }
+    ],
+    "scenes": [
+      {
+        "id": "wheelchair",
+        "title": "轮椅路线",
+        "pain": "最短路径经过楼梯，距离近却走不通。",
+        "response": "先应用轮椅与电梯硬约束，再比较剩余路径。",
+        "contribution": "语言理解辅助输入；确定性引擎排除不可用边。",
+        "result": "预设需要已套用；本地引擎重新计算路线。",
+        "status": "预设需要 + 实际本地路由",
+        "image": "assets/accessroute/wheelchair.png"
+      },
+      {
+        "id": "rain",
+        "title": "下雨与有盖偏好",
+        "pain": "雨天出行更在意露天暴露，而不是只看距离。",
+        "response": "保留行动约束，切换有盖路线偏好并比较路线。",
+        "contribution": "偏好字段控制排序；路径引擎比较暴露与次级成本。",
+        "result": "演示对照雨天偏好下的可行路线，不承诺全港实时天气。",
+        "status": "预设天气 + 实际本地路由",
+        "image": "assets/accessroute/rain.png"
+      },
+      {
+        "id": "outage",
+        "title": "模拟电梯故障",
+        "pain": "途中关键电梯停用，原路线无法继续。",
+        "response": "确认受影响设施后创建限时事件，重算剩余路线。",
+        "contribution": "图像观察与匹配提供候选，用户确认；引擎改道。",
+        "result": "预设关闭事件下改走可用路径；无替代时应明确无路线。",
+        "status": "模拟事件 + 确认后改道",
+        "image": "assets/accessroute/outage.png"
+      },
+      {
+        "id": "location",
+        "title": "照片确认位置",
+        "pain": "室内楼层不清楚，难以判断自己所在的节点。",
+        "response": "将地标线索与现有地图候选匹配，由用户确认公共锚点。",
+        "contribution": "视觉观察与地图证据匹配辅助定位，程序验证节点。",
+        "result": "当前Showcase使用预设识别候选，不在页面实时调用视觉模型。",
+        "status": "预设视觉结果 + 用户确认",
+        "image": "assets/accessroute/location.png"
+      },
+      {
+        "id": "guidance",
+        "title": "粤语语音指引",
+        "pain": "长者或手持物品者难以持续看手机。",
+        "response": "围绕当前路段的确定事实，给出短句并支持重播。",
+        "contribution": "产品方案以文本模型转述事实；当前Showcase播放预录粤语。",
+        "result": "可播放预录指引；不把预录音频当成实时模型生成。",
+        "status": "预录音频演示",
+        "image": "assets/accessroute/guidance.png"
+      }
+    ],
+    "hero": "assets/accessroute/wheelchair.png",
+    "links": {
+      "demo": "https://xanderzhou2022.github.io/AccessRoute_small_demo/showcase/",
+      "github": "https://github.com/XanderZhou2022/AccessRoute_small_demo",
+      "ppt": "https://xanderzhou2022.github.io/AccessRoute/downloads/presentation.pptx",
+      "cost": "https://xanderzhou2022.github.io/AccessRoute/service-budget.html",
+      "video": "https://www.youtube.com/watch?v=qnFK27wVjt4"
+    },
+    "journey": [
+      {
+        "title": "选择起点与目的地",
+        "description": "先通过地图顶部的地点入口选择出发地和目的地。演示可从 12 个场景分别选择；支持的浏览器也可用粤语输入，识别后仍能手动修改。",
+        "image": "assets/accessroute/mobile/01-places.png",
+        "alt": "手机端地点选择：PopCorn 2 至希慎广场",
+        "caption": "选择并核对起终点，再套用。"
+      },
+      {
+        "title": "设定行动需要",
+        "description": "选择步行、轮椅、长者、婴儿车或重行李画像，再按需要调整楼梯、升降机、坡度与步速。设置保存在当前浏览器。",
+        "image": "assets/accessroute/mobile/02-preferences.png",
+        "alt": "手机端出行设置：已选择使用轮椅及需要升降机",
+        "caption": "把行动需要转成可执行的路由条件。"
+      },
+      {
+        "title": "比较可行路线",
+        "description": "在同一组行动约束下，比较较短和有盖方案。图中首末两段步行分别为 656 米和 720 米，预计步行时间不含列车车程。",
+        "image": "assets/accessroute/mobile/03-routes.png",
+        "alt": "轮椅约束下的手机端路线比较：有盖 720 米，较短 656 米",
+        "caption": "比较同一旅程中距离与遮蔽的取舍。"
+      },
+      {
+        "title": "跟随分段导航",
+        "description": "底部卡片突出当前指引、楼层与进度。使用者核对环境后点「已到达・下一步」，需要时可朗读当前指示；语音取决于设备支持。",
+        "image": "assets/accessroute/mobile/04-navigation.png",
+        "alt": "手机端楼层导航与当前步进指引",
+        "caption": "用户手动推进步骤，没有实时室内定位。"
+      },
+      {
+        "title": "设施异常时求助",
+        "description": "通过地图上的「？」打开协助卡，选择设施无法使用。照片辨识需要配置服务；确认匹配设施后，才可将事件应用到演示路线。",
+        "image": "assets/accessroute/mobile/05-facility-help.png",
+        "alt": "手机端旅程协助卡：设施无法使用与迷路两项入口",
+        "caption": "原地打开协助卡，保留当前导航步骤。"
+      },
+      {
+        "title": "用地标辅助找位置",
+        "description": "可选择附近地标照片并补充线索。提交后须检查候选并确认位置，才更新起点。此图只展示待提交的表单。",
+        "image": "assets/accessroute/mobile/06-location-help.png",
+        "alt": "手机端我迷路了表单及待提交的项目地标照片",
+        "caption": "由用户确认位置，避免自动套用不确定结果。"
+      }
+    ]
+  },
+  "personalPortrait": {
+    "src": "assets/images/personal-portrait.jpg",
+    "shapes": {
+      "default": "polygon(44.33% 1.54%, 37.33% 3.08%, 36.56% 4.62%, 36.33% 6.16%, 36.11% 7.70%, 36.11% 9.24%, 35.44% 10.79%, 34.67% 12.33%, 34.22% 13.87%, 33.56% 15.41%, 33.11% 16.95%, 32.56% 18.49%, 32.22% 20.03%, 31.89% 21.57%, 31.56% 23.11%, 31.11% 24.65%, 30.89% 26.19%, 30.78% 27.73%, 30.44% 29.28%, 30.33% 30.82%, 29.67% 32.36%, 29.22% 33.90%, 28.89% 35.44%, 28.89% 36.98%, 28.89% 38.52%, 28.89% 40.06%, 28.89% 41.60%, 29.22% 43.14%, 29.67% 44.68%, 30.00% 46.22%, 30.44% 47.77%, 30.44% 49.31%, 30.44% 50.85%, 30.33% 52.39%, 29.78% 53.93%, 29.11% 55.47%, 28.11% 57.01%, 27.67% 58.55%, 26.89% 60.09%, 25.89% 61.63%, 25.00% 63.17%, 23.67% 64.71%, 23.89% 66.26%, 23.11% 67.80%, 22.33% 69.34%, 21.78% 70.88%, 20.78% 72.42%, 20.11% 73.96%, 19.67% 75.50%, 19.22% 77.04%, 18.89% 78.58%, 18.44% 80.12%, 18.22% 81.66%, 17.89% 83.20%, 17.67% 84.75%, 17.33% 86.29%, 17.00% 87.83%, 16.89% 89.37%, 16.56% 90.91%, 16.22% 92.45%, 16.22% 93.99%, 15.78% 95.53%, 15.44% 97.07%, 18.11% 98.61%, 77.33% 98.61%, 78.89% 97.07%, 78.89% 95.53%, 78.89% 93.99%, 78.89% 92.45%, 79.22% 90.91%, 80.00% 89.37%, 80.44% 87.83%, 81.11% 86.29%, 82.00% 84.75%, 82.89% 83.20%, 83.44% 81.66%, 83.89% 80.12%, 84.22% 78.58%, 84.67% 77.04%, 84.56% 75.50%, 83.89% 73.96%, 83.33% 72.42%, 82.33% 70.88%, 81.22% 69.34%, 79.67% 67.80%, 78.44% 66.26%, 77.22% 64.71%, 76.11% 63.17%, 75.00% 61.63%, 74.22% 60.09%, 73.44% 58.55%, 72.78% 57.01%, 72.78% 55.47%, 72.78% 53.93%, 72.44% 52.39%, 72.56% 50.85%, 72.89% 49.31%, 73.44% 47.77%, 73.89% 46.22%, 74.11% 44.68%, 74.22% 43.14%, 74.22% 41.60%, 73.89% 40.06%, 73.33% 38.52%, 72.33% 36.98%, 71.33% 35.44%, 69.89% 33.90%, 68.89% 32.36%, 68.44% 30.82%, 68.11% 29.28%, 67.78% 27.73%, 67.33% 26.19%, 66.89% 24.65%, 66.56% 23.11%, 66.22% 21.57%, 65.78% 20.03%, 65.11% 18.49%, 64.78% 16.95%, 64.33% 15.41%, 63.78% 13.87%, 63.11% 12.33%, 62.44% 10.79%, 61.56% 9.24%, 60.89% 7.70%, 60.78% 6.16%, 60.44% 4.62%, 58.89% 3.08%, 54.22% 1.54%)",
+      "projects": "polygon(46.44% 1.54%, 45.33% 3.08%, 44.67% 4.62%, 44.22% 6.16%, 43.56% 7.70%, 42.78% 9.24%, 41.33% 10.79%, 39.89% 12.33%, 38.78% 13.87%, 37.67% 15.41%, 36.67% 16.95%, 35.78% 18.49%, 35.11% 20.03%, 34.33% 21.57%, 33.56% 23.11%, 32.89% 24.65%, 32.22% 26.19%, 31.33% 27.73%, 30.44% 29.28%, 29.56% 30.82%, 28.78% 32.36%, 27.89% 33.90%, 27.44% 35.44%, 26.89% 36.98%, 26.33% 38.52%, 26.33% 40.06%, 26.67% 41.60%, 26.78% 43.14%, 26.78% 44.68%, 26.33% 46.22%, 26.00% 47.77%, 25.33% 49.31%, 23.67% 50.85%, 22.67% 52.39%, 20.89% 53.93%, 20.44% 55.47%, 20.11% 57.01%, 19.78% 58.55%, 19.44% 60.09%, 19.33% 61.63%, 19.00% 63.17%, 18.67% 64.71%, 18.33% 66.26%, 17.89% 67.80%, 17.67% 69.34%, 16.00% 70.88%, 14.78% 72.42%, 14.00% 73.96%, 13.33% 75.50%, 13.22% 77.04%, 12.78% 78.58%, 12.44% 80.12%, 12.78% 81.66%, 12.78% 83.20%, 12.78% 84.75%, 13.22% 86.29%, 13.22% 87.83%, 13.56% 89.37%, 13.56% 90.91%, 13.89% 92.45%, 13.89% 93.99%, 14.33% 95.53%, 14.33% 97.07%, 15.00% 98.61%, 84.22% 98.61%, 85.00% 97.07%, 86.22% 95.53%, 86.78% 93.99%, 87.11% 92.45%, 87.44% 90.91%, 87.11% 89.37%, 86.78% 87.83%, 86.00% 86.29%, 85.33% 84.75%, 84.33% 83.20%, 83.22% 81.66%, 81.89% 80.12%, 80.67% 78.58%, 80.44% 77.04%, 80.11% 75.50%, 80.11% 73.96%, 79.89% 72.42%, 79.56% 70.88%, 78.78% 69.34%, 78.00% 67.80%, 77.33% 66.26%, 76.89% 64.71%, 76.44% 63.17%, 75.89% 61.63%, 75.44% 60.09%, 75.44% 58.55%, 75.44% 57.01%, 75.44% 55.47%, 75.00% 53.93%, 74.33% 52.39%, 73.56% 50.85%, 73.22% 49.31%, 73.22% 47.77%, 73.22% 46.22%, 73.22% 44.68%, 73.22% 43.14%, 73.22% 41.60%, 73.22% 40.06%, 73.22% 38.52%, 73.22% 36.98%, 73.22% 35.44%, 73.22% 33.90%, 73.22% 32.36%, 72.89% 30.82%, 72.89% 29.28%, 72.44% 27.73%, 72.22% 26.19%, 72.11% 24.65%, 71.78% 23.11%, 71.33% 21.57%, 71.00% 20.03%, 71.00% 18.49%, 71.33% 16.95%, 71.11% 15.41%, 69.44% 13.87%, 67.56% 12.33%, 66.00% 10.79%, 64.67% 9.24%, 60.33% 7.70%, 59.67% 6.16%, 58.33% 4.62%, 56.00% 3.08%, 52.22% 1.54%)",
+      "experience": "polygon(56.89% 1.54%, 56.44% 3.08%, 55.67% 4.62%, 51.67% 6.16%, 49.22% 7.70%, 48.00% 9.24%, 47.22% 10.79%, 46.00% 12.33%, 45.11% 13.87%, 44.22% 15.41%, 43.22% 16.95%, 42.44% 18.49%, 41.89% 20.03%, 41.22% 21.57%, 40.78% 23.11%, 40.11% 24.65%, 39.67% 26.19%, 39.11% 27.73%, 38.56% 29.28%, 38.11% 30.82%, 37.44% 32.36%, 36.67% 33.90%, 35.89% 35.44%, 35.33% 36.98%, 34.56% 38.52%, 33.78% 40.06%, 32.67% 41.60%, 31.11% 43.14%, 29.78% 44.68%, 29.00% 46.22%, 28.00% 47.77%, 27.44% 49.31%, 26.89% 50.85%, 26.22% 52.39%, 25.56% 53.93%, 24.78% 55.47%, 23.89% 57.01%, 23.00% 58.55%, 21.89% 60.09%, 21.22% 61.63%, 20.67% 63.17%, 20.22% 64.71%, 19.78% 66.26%, 19.11% 67.80%, 18.44% 69.34%, 17.67% 70.88%, 16.89% 72.42%, 16.11% 73.96%, 15.44% 75.50%, 14.67% 77.04%, 13.89% 78.58%, 13.11% 80.12%, 12.33% 81.66%, 11.56% 83.20%, 10.78% 84.75%, 10.00% 86.29%, 9.22% 87.83%, 8.44% 89.37%, 7.78% 90.91%, 7.00% 92.45%, 6.44% 93.99%, 5.78% 95.53%, 5.33% 97.07%, 36.89% 98.61%, 65.44% 98.61%, 91.00% 97.07%, 91.44% 95.53%, 92.00% 93.99%, 92.67% 92.45%, 93.33% 90.91%, 93.78% 89.37%, 94.22% 87.83%, 94.44% 86.29%, 93.89% 84.75%, 93.22% 83.20%, 92.67% 81.66%, 91.89% 80.12%, 91.11% 78.58%, 90.11% 77.04%, 88.89% 75.50%, 88.33% 73.96%, 87.89% 72.42%, 87.67% 70.88%, 87.22% 69.34%, 86.78% 67.80%, 86.33% 66.26%, 85.56% 64.71%, 84.89% 63.17%, 84.44% 61.63%, 84.00% 60.09%, 83.89% 58.55%, 83.44% 57.01%, 83.22% 55.47%, 82.89% 53.93%, 82.56% 52.39%, 82.44% 50.85%, 82.11% 49.31%, 81.67% 47.77%, 81.33% 46.22%, 81.00% 44.68%, 80.89% 43.14%, 80.56% 41.60%, 80.56% 40.06%, 80.56% 38.52%, 80.56% 36.98%, 80.56% 35.44%, 80.56% 33.90%, 80.56% 32.36%, 80.11% 30.82%, 80.11% 29.28%, 79.89% 27.73%, 79.78% 26.19%, 79.33% 24.65%, 79.11% 23.11%, 78.67% 21.57%, 78.33% 20.03%, 77.78% 18.49%, 77.33% 16.95%, 76.56% 15.41%, 76.22% 13.87%, 76.22% 12.33%, 75.67% 10.79%, 74.11% 9.24%, 71.78% 7.70%, 70.11% 6.16%, 65.67% 4.62%, 63.89% 3.08%, 61.11% 1.54%)",
+      "skills": "polygon(25.22% 1.54%, 23.33% 3.08%, 22.56% 4.62%, 19.44% 6.16%, 17.56% 7.70%, 16.44% 9.24%, 15.44% 10.79%, 13.89% 12.33%, 12.33% 13.87%, 10.67% 15.41%, 9.44% 16.95%, 9.44% 18.49%, 9.89% 20.03%, 9.89% 21.57%, 9.89% 23.11%, 9.44% 24.65%, 9.44% 26.19%, 9.11% 27.73%, 9.11% 29.28%, 8.67% 30.82%, 8.67% 32.36%, 8.67% 33.90%, 8.67% 35.44%, 8.67% 36.98%, 8.67% 38.52%, 8.67% 40.06%, 8.78% 41.60%, 9.11% 43.14%, 9.44% 44.68%, 9.44% 46.22%, 9.44% 47.77%, 9.44% 49.31%, 9.44% 50.85%, 9.11% 52.39%, 8.67% 53.93%, 8.33% 55.47%, 8.11% 57.01%, 7.89% 58.55%, 7.44% 60.09%, 7.11% 61.63%, 7.11% 63.17%, 7.22% 64.71%, 6.78% 66.26%, 6.00% 67.80%, 5.11% 69.34%, 4.56% 70.88%, 3.89% 72.42%, 3.44% 73.96%, 2.67% 75.50%, 2.22% 77.04%, 1.78% 78.58%, 1.44% 80.12%, 1.00% 81.66%, 1.00% 83.20%, 0.56% 84.75%, 0.56% 86.29%, 1.00% 87.83%, 1.33% 89.37%, 1.78% 90.91%, 2.22% 92.45%, 2.67% 93.99%, 3.56% 95.53%, 43.11% 97.07%, 50.67% 98.61%, 65.78% 98.61%, 69.33% 97.07%, 99.00% 95.53%, 98.67% 93.99%, 97.89% 92.45%, 97.00% 90.91%, 96.11% 89.37%, 95.00% 87.83%, 93.89% 86.29%, 92.67% 84.75%, 91.33% 83.20%, 89.89% 81.66%, 88.33% 80.12%, 86.78% 78.58%, 85.22% 77.04%, 84.00% 75.50%, 82.56% 73.96%, 81.33% 72.42%, 80.11% 70.88%, 79.00% 69.34%, 77.78% 67.80%, 76.67% 66.26%, 75.56% 64.71%, 74.67% 63.17%, 73.89% 61.63%, 72.89% 60.09%, 72.11% 58.55%, 71.44% 57.01%, 70.67% 55.47%, 70.22% 53.93%, 70.22% 52.39%, 69.78% 50.85%, 69.33% 49.31%, 68.67% 47.77%, 67.78% 46.22%, 66.44% 44.68%, 64.56% 43.14%, 62.89% 41.60%, 60.56% 40.06%, 60.33% 38.52%, 60.56% 36.98%, 60.89% 35.44%, 60.44% 33.90%, 59.78% 32.36%, 58.56% 30.82%, 57.22% 29.28%, 56.44% 27.73%, 56.11% 26.19%, 56.00% 24.65%, 55.33% 23.11%, 50.78% 21.57%, 50.00% 20.03%, 49.00% 18.49%, 48.22% 16.95%, 47.22% 15.41%, 46.33% 13.87%, 45.11% 12.33%, 44.00% 10.79%, 42.67% 9.24%, 41.33% 7.70%, 39.33% 6.16%, 36.11% 4.62%, 28.56% 3.08%, 27.44% 1.54%)",
+      "honors": "polygon(43.00% 1.54%, 40.22% 3.08%, 38.56% 4.62%, 37.56% 6.16%, 34.56% 7.70%, 32.11% 9.24%, 30.22% 10.79%, 28.56% 12.33%, 27.00% 13.87%, 25.89% 15.41%, 25.78% 16.95%, 25.33% 18.49%, 24.67% 20.03%, 24.22% 21.57%, 23.56% 23.11%, 23.00% 24.65%, 22.56% 26.19%, 22.33% 27.73%, 22.22% 29.28%, 21.78% 30.82%, 21.56% 32.36%, 21.33% 33.90%, 21.33% 35.44%, 21.33% 36.98%, 21.33% 38.52%, 21.33% 40.06%, 21.33% 41.60%, 21.33% 43.14%, 21.33% 44.68%, 21.33% 46.22%, 21.33% 47.77%, 21.33% 49.31%, 21.33% 50.85%, 21.00% 52.39%, 20.67% 53.93%, 20.56% 55.47%, 20.78% 57.01%, 21.11% 58.55%, 21.33% 60.09%, 21.33% 61.63%, 21.33% 63.17%, 21.00% 64.71%, 20.56% 66.26%, 19.89% 67.80%, 19.22% 69.34%, 18.44% 70.88%, 17.67% 72.42%, 16.89% 73.96%, 16.11% 75.50%, 15.78% 77.04%, 15.44% 78.58%, 16.11% 80.12%, 16.56% 81.66%, 16.56% 83.20%, 16.56% 84.75%, 16.11% 86.29%, 15.78% 87.83%, 15.00% 89.37%, 14.00% 90.91%, 12.89% 92.45%, 11.44% 93.99%, 10.44% 95.53%, 9.44% 97.07%, 9.67% 98.61%, 86.56% 98.61%, 87.00% 97.07%, 87.33% 95.53%, 87.44% 93.99%, 87.89% 92.45%, 88.22% 90.91%, 88.56% 89.37%, 89.00% 87.83%, 89.11% 86.29%, 89.44% 84.75%, 89.78% 83.20%, 90.22% 81.66%, 90.67% 80.12%, 90.67% 78.58%, 90.67% 77.04%, 90.67% 75.50%, 90.22% 73.96%, 89.56% 72.42%, 88.78% 70.88%, 87.56% 69.34%, 85.22% 67.80%, 83.33% 66.26%, 82.78% 64.71%, 80.44% 63.17%, 79.22% 61.63%, 78.22% 60.09%, 77.44% 58.55%, 76.67% 57.01%, 76.56% 55.47%, 76.11% 53.93%, 76.56% 52.39%, 76.56% 50.85%, 76.44% 49.31%, 76.00% 47.77%, 74.89% 46.22%, 73.33% 44.68%, 71.67% 43.14%, 71.33% 41.60%, 71.33% 40.06%, 71.33% 38.52%, 71.67% 36.98%, 71.67% 35.44%, 71.67% 33.90%, 71.33% 32.36%, 70.78% 30.82%, 69.89% 29.28%, 69.00% 27.73%, 67.67% 26.19%, 66.44% 24.65%, 65.00% 23.11%, 64.00% 21.57%, 63.22% 20.03%, 62.33% 18.49%, 61.44% 16.95%, 60.33% 15.41%, 59.11% 13.87%, 57.56% 12.33%, 55.56% 10.79%, 53.67% 9.24%, 52.89% 7.70%, 52.33% 6.16%, 52.11% 4.62%, 51.56% 3.08%, 50.78% 1.54%)"
+    }
+  }
+}
